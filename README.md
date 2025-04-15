@@ -8,7 +8,6 @@
 
 ChemBioHepatox is a novel deep learning framework that combines chemical structures with biological assay responses to accurately predict hepatotoxicity while providing mechanistic insights into toxicity pathways.
 
-![Model Architecture](https://via.placeholder.com/800x400?text=ChemBioHepatox+Framework)
 
 ## Overview
 
