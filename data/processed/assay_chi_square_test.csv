@@ -1,0 +1,1511 @@
+,Chi-Square p-value
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 16 hour,0.48986531740055594
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 24 hour,1.0
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 32 hour,0.6673225668318831
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 40 hour,0.9848942086344845
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 8 hour,1.0
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 16 hour,0.4514579085201703
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 24 hour,0.18442424725409384
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 32 hour,0.17661718662452705
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 40 hour,0.12629815240453887
+A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 8 hour,1.0
+A High-Content qHTS Against Drug Library for the Identification of Small Molecules that Inhibit DYT1 Early Onset Primary Dystonia-Associated Cell Pathology,0.18377310058406726
+A quantitative high throughput screen for small molecules that induce DNA re-replication in MCF 10a normal breast cells.,0.3762343083344285
+A quantitative high throughput screen for small molecules that induce DNA re-replication in SW480 colon adenocarcinoma cells.,0.7119231506921899
+A screen for compounds that inhibit replication of Vibrio cholerae chromosome II,0.17756877681093802
+A screen for compounds that inhibit the activity of LtaS in Staphylococcus aureus,0.015781416456707793
+A small molecule screen for inhibitors of the PhoP regulon in Salmonella Typhimurium,0.49480261572680917
+A small molecule screen for inhibitors of the PhoP regulon in Salmonella typhi,0.19472154196248764
+Absorbance-based primary bacterial cell-based high throughput screening assay to identify inhibitors of AddAB recombination protein complex,0.11847155151828737
+Absorbance-based primary bacterial cell-based high throughput screening assay to identify inhibitors of RecBCD (with phage),0.1861198627260326
+Acetylcholinesterase (AChE) small molecule antagonists: colormetric cell-based qHTS assay,1.0
+Acetylcholinesterase (AChE) small molecule antagonists: enzyme-based qHTS assay,0.7744468868260557
+Acetylcholinesterase (AChE) small molecule antagonists: fluorescence cell-based qHTS assay,0.5191499867907746
+Agonist activity at human ADRA1A in an in vitro cell-based assay (CRO assay) measured by fluorescence spectroscopy,1.0
+Allosteric Agonists of the Human D1 Dopamine Receptor: qHTS,1.0
+Antagonist activity at human ADRA1A in an in vitro cell-based assay measured by fluorescence spectroscopy,1.0
+Antagonist activity at human TBXA2R in an in vitro cell-based assay measured by fluorescence spectroscopy,1.0
+Antagonist activity human CHRM1 in an in vitro cell-based assay measured by fluorescence spectroscopy,1.0
+Antagonist of Human D 1 Dopamine Receptor: qHTS,0.7669751036964281
+Binding affinity towards human ADORA3 (agonistic activity) in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human ADRA2A in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human AR in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human CHRM2 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human DRD1 in an in vitro assay with cellular components (NIBR assay) measured by scintillation counting,1.0
+Binding affinity towards human DRD3 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human ESR1 in an in vitro cell free assay (CRO assay) measured by membrane filtration,1.0
+Binding affinity towards human HRH3 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human HTR1A in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human OPRM1 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human PGR in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human SLC6A2 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human SLC6A3 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Binding affinity towards human SLC6A4 in an in vitro assay with cellular components measured by scintillation counting,1.0
+Biochemical firefly luciferase enzyme assay for NPC,0.34554651177820417
+"CYP3A4 induction through human pregnane X receptor (PXR) by small molecules, qHTS assay",0.5506708737927524
+"Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS assay: Summary",1.0
+"Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS cell viability counter screen",0.00631548224613162
+"Caspase-3/7 induction in HepG2 cells by small molecules, qHTS assay",0.38988739348765444
+"Caspase-3/7 induction in HepG2 cells by small molecules, qHTS assay: Summary",0.02607521522346847
+"Caspase-3/7 induction in HepG2 cells by small molecules, qHTS cell viability counter screen",0.12418046413014192
+Cell-based high throughput primary assay to identify activators of GPR151,0.6193452946244169
+Compound was evaluated for inhibition of human ACHE in an vitro cell free assay measured by absorbance method,1.0
+"Compound was evaluated for inhibition of human KCNH2 in an in vitro assay with cellular components measured by membrane filtration, radioactivity method",1.0
+Compound was evaluated for inhibition of human MAOA in an in vitro cell free assay measured by fluorescence spectroscopy,1.0
+Compound was evaluated for inhibition of human PDE3A in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Compound was evaluated for inhibition of human PDE4A in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Compound was evaluated for inhibition of human PTGS1 in an in vitro cell free assay measured by fluorescence method,1.0
+Compound was evaluated for inhibition of human PTGS1 in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Counterscreen for inhibitors of AddAB: absorbance-based bacterial cell-based high throughput screening assay to identify inhibitors of bacterial viability,0.09620481968080305
+Cytochrome P450 Family 1 Subfamily A Member 2 (CYP1A2) small molecule antagonists: luciferase reporter qHTS assay,0.0053217062686617455
+Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay,0.02780776789040305
+Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay,0.0005275386941242678
+Cytochrome P450 Family 2 Subfamily D Member 6 (CYP2D6) small molecule antagonists: luciferase reporter qHTS assay,0.19564036949072952
+Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay,0.01252177112262955
+Cytochrome P450 family 2 subfamily C member 9 (CYP2C9) small molecule antagonists: luciferase cell-based qHTS assay,0.00014765457080025712
+Cytochrome P450 family 2 subfamily D member 6 (CYP2D6) small molecule antagonists: luciferase cell-based qHTS assay,0.7459652485210388
+Cytochrome P450 family 3 subfamily A member 4 (CYP3A4) small molecule antagonists: luciferase cell-based qHTS assay,0.007172873852438806
+Cytochrome P450 family 3 subfamily A member 7 (CYP3A7) small molecule antagonists: luciferase cell-based qHTS assay,2.9947390228317666e-05
+Cytochrome panel assay with activity outcomes,0.545679034628733
+Cytotoxic Profiling of Annotated Libraries Using Quantitative High-Throughput Screening,0.4324370199173643
+Cytotoxicity counterscreen for inhibitors of SARS-CoV-2 cell entry,0.11356209541437738
+DLD viability from Cell TiterGlo-screen,0.08575044808018291
+DSSTox (FDAMDD) FDA Maximum (Recommended) Daily Dose Database,1.0
+Dicer-mediated maturation of pre-microRNA,0.9188682658058104
+Drug repurposing screens with cells derived from glioblastoma tumor samples,0.42217331808842684
+ERK5 transcriptional activity HTS,1.0
+Fluorescence polarization-based primary biochemical high throughput screening assay to identify inhibitors of the plasma platelet activating factor acetylhydrolase (pPAFAH),0.42062986994127316
+"Fluorescence-based cell-based primary high throughput screening assay to identify agonists of the human cholinergic receptor, muscarinic 1 (CHRM1)",0.8199928687044394
+Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human M1 muscarinic receptor (CHRM1),0.3590523077270902
+"Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human cholinergic receptor, muscarinic 4 (CHRM4)",0.5335130509555259
+"Fluorescence-based cell-based primary high throughput screening assay to identify antagonists of the human cholinergic receptor, muscarinic 5 (CHRM5)",0.2842379658976638
+GLP1 secretion from NCI-H716 cells-screen,0.2610520805691837
+GSK3B-pretreated HCT116 viability from Cell TiterGlo-screen,0.09355500146688432
+HCT116 viability from Cell TiterGlo-screen,0.10478939566140827
+HTS Assay for Allosteric Antagonists of the Human D2 Dopamine Receptor: Primary Screen for Antagonists,0.5603586807002439
+HTS Assay for Peg3 Promoter Inhibitors,0.6346510340581906
+HTS for PAX8 inhibitors using PAX8 luciferase reporter gene assay in RMG-I cells Measured in Cell-Based System Using Plate Reader - 7054-01_Inhibitor_SinglePoint_HTS_Activity,0.09465603672625576
+HTS to identify compounds that promote myeloid differentiation with MLPCN compound set,0.9441332245261623
+HTS-Luminescent assay for inhibitors of ALR by detection of hydrogen peroxide production Measured in Biochemical System Using Plate Reader - 2036-02_Inhibitor_SinglePoint_HTS,0.046050755862323454
+High Throughput Screen to Identify Inhibitors of Mycobacterium tuberculosis H37Rv,0.08271714992990331
+High Throughput Screening Assay used to Identify Novel Compounds that Inhibit Mycobacterium Tuberculosis in 7H9 Media,0.1864523783782732
+Human Ether-a-go-go-Related Gene (hERG) channel small molecule antagonists: fluorescence cell-based qHTS assay,0.539328325420237
+"Human gonadotropin-releasing hormone receptor (GnRHR) small molecule agonists, calcium flux assay in GnRHR-HEK293 cells",0.432198424893272
+"Human pregnane X receptor (PXR) activation by small molecules, qHTS assay",1.0
+"Human pregnane X receptor (PXR) small molecule agonists, qHTS assay",0.5407224550402866
+"Human pregnane X receptor (PXR) small molecule agonists, qHTS cell viability counter screen",0.257954503337411
+Human pregnane X receptor (PXR) small molecule agonists: Summary,0.083304527317806
+Identification of Small Molecule Correctors of the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) Delta508 Mutation Function in Human Bronchial Epithelial Cells. Measured in Cell-Based System Using Plate Reader - 7017-01_Other_SinglePoint_HTS_Activity,0.6301812939620496
+In vivo-based yeast HTS to detect compounds rescuing yeast growth/survival of Plasmodium Falciparum HSP40-mediated toxicity Measured in Whole Organism System Using Plate Reader - 2120-01_Inhibitor_SinglePoint_HTS_Activity,0.8328846367766345
+Inhibition of human BSEP expressed in baculovirus transfected fall armyworm Sf21 cell membranes vesicles assessed as reduction in ATP-dependent [3H]-taurocholate transport into vesicles incubated for 5 mins by Topcount based rapid filtration method,1.0
+Inhibitors of Epstein-Barr LMP1 inducible NF-kappaB luciferase reporter Measured in Cell-Based System Using Plate Reader - 2122-01_Inhibitor_SinglePoint_HTS_Activity,0.9573744392503091
+Inhibitors of USP1/UAF1: Pilot qHTS,0.3325063124362838
+Inhibitors of the vitamin D receptor (VDR): qHTS,0.25885219738673426
+Luminescence Cell-Based Primary HTS to Identify Inhibitors of Cancer Stem Cells,0.9553139337596412
+Luminescence Cell-Based Primary HTS to identify inhibitors of the oncoprotein EWS/Fli transcriptional activity Measured in Cell-Based System Using Plate Reader - 7014-01_Inhibitor_SinglePoint_HTS_Activity,1.0
+Luminescence cell-based high throughput primary assay to identify inhibitors of TEAD-YAP interaction.,0.5809540925917628
+MELAS cybrid survival enhancement under low glucose conditions,1.0
+MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Inhibitor_SinglePoint_HTS_Activity,0.6912827986828021
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice,0.15424665126018686
+NCI Yeast Anticancer Drug Screen. Data for the bub3 strain,0.9956397044093369
+NCI Yeast Anticancer Drug Screen. Data for the cln2 rad14 strain,0.31459790499802703
+NCI Yeast Anticancer Drug Screen. Data for the mec2 strain,0.2861008658893074
+NCI Yeast Anticancer Drug Screen. Data for the mlh1 rad18 strain,0.5129798265856874
+NCI Yeast Anticancer Drug Screen. Data for the rad50 strain,0.3675959352845628
+NCI Yeast Anticancer Drug Screen. Data for the sgs1 mgt1 strain,0.7426420532943128
+"NCI human tumor cell line growth inhibition assay. Data for the 786-0 Non-Small Cell Lung cell line, single concentration",0.4825835795357212
+"NCI human tumor cell line growth inhibition assay. Data for the A498 Non-Small Cell Lung cell line, single concentration",0.8680938952188777
+"NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line, single concentration",0.5575957539679344
+"NCI human tumor cell line growth inhibition assay. Data for the ACHN Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the BT-549 Non-Small Cell Lung cell line, single concentration",0.11035133646739059
+"NCI human tumor cell line growth inhibition assay. Data for the CAKI Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the CCRF-CEM Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the COLO 205 Non-Small Cell Lung cell line, single concentration",0.3835332858218723
+"NCI human tumor cell line growth inhibition assay. Data for the DU45 Non-Small Cell Lung cell line, single concentration",0.5128775027580301
+"NCI human tumor cell line growth inhibition assay. Data for the HCC-2998 Non-Small Cell Lung cell line, single concentration",0.9307233906432747
+"NCI human tumor cell line growth inhibition assay. Data for the HCT16 Non-Small Cell Lung cell line, single concentration",0.22442940311238993
+"NCI human tumor cell line growth inhibition assay. Data for the HCT5 Non-Small Cell Lung cell line, single concentration",0.4946396572470009
+"NCI human tumor cell line growth inhibition assay. Data for the HL-60(TB) Non-Small Cell Lung cell line, single concentration",0.11131858099989447
+"NCI human tumor cell line growth inhibition assay. Data for the HOP-92 Non-Small Cell Lung cell line, single concentration",0.9007834650797255
+"NCI human tumor cell line growth inhibition assay. Data for the HS 578T Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the HT29 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the IGROV1 Non-Small Cell Lung cell line, single concentration",0.2339346435486021
+"NCI human tumor cell line growth inhibition assay. Data for the K-562 Non-Small Cell Lung cell line, single concentration",0.6685598667063721
+"NCI human tumor cell line growth inhibition assay. Data for the KM12 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Non-Small Cell Lung cell line, single concentration",0.8741268888604162
+"NCI human tumor cell line growth inhibition assay. Data for the M14 Non-Small Cell Lung cell line, single concentration",0.94029633754008
+"NCI human tumor cell line growth inhibition assay. Data for the MALME-3M Non-Small Cell Lung cell line, single concentration",0.37712840110926293
+"NCI human tumor cell line growth inhibition assay. Data for the MCF7 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-231/ATCC Non-Small Cell Lung cell line, single concentration",0.88335723406584
+"NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-435 Non-Small Cell Lung cell line, single concentration",0.9427022384606947
+"NCI human tumor cell line growth inhibition assay. Data for the MOLT-4 Non-Small Cell Lung cell line, single concentration",0.19481688914829334
+"NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line, single concentration",0.7604455635093521
+"NCI human tumor cell line growth inhibition assay. Data for the NCI-H460 Non-Small Cell Lung cell line, single concentration",0.5582802871027306
+"NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line, single concentration",0.8030594142948038
+"NCI human tumor cell line growth inhibition assay. Data for the NCI/ADR-RES Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the OVCAR-3 Non-Small Cell Lung cell line, single concentration",0.3862246498897317
+"NCI human tumor cell line growth inhibition assay. Data for the OVCAR-8 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the PC-3 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the RPMI-8226 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the RXF 393 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the SF-295 Non-Small Cell Lung cell line, single concentration",0.318864403997245
+"NCI human tumor cell line growth inhibition assay. Data for the SF-539 Non-Small Cell Lung cell line, single concentration",0.8265519737426118
+"NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-2 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-28 Non-Small Cell Lung cell line, single concentration",0.8065299232137365
+"NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-5 Non-Small Cell Lung cell line, single concentration",0.6254482857810402
+"NCI human tumor cell line growth inhibition assay. Data for the SK-OV-3 Non-Small Cell Lung cell line, single concentration",0.6335981112713905
+"NCI human tumor cell line growth inhibition assay. Data for the SNB-75 Non-Small Cell Lung cell line, single concentration",0.631171649276106
+"NCI human tumor cell line growth inhibition assay. Data for the SR Non-Small Cell Lung cell line, single concentration",0.9355234648086412
+"NCI human tumor cell line growth inhibition assay. Data for the SW-620 Non-Small Cell Lung cell line, single concentration",0.9794974035485416
+"NCI human tumor cell line growth inhibition assay. Data for the T-47D Non-Small Cell Lung cell line, single concentration",0.8573663496982697
+"NCI human tumor cell line growth inhibition assay. Data for the TK0 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the U251 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the UACC-257 Non-Small Cell Lung cell line, single concentration",0.9254340616043202
+"NCI human tumor cell line growth inhibition assay. Data for the UACC-62 Non-Small Cell Lung cell line, single concentration",1.0
+"NCI human tumor cell line growth inhibition assay. Data for the UO-31 Non-Small Cell Lung cell line, single concentration",0.8737660647795915
+NS1 protein of Zika virus - qHTS assay to identify small molecule inhibitors in human HEK 293 cells,1.0
+Nrf2 qHTS screen for inhibitors,0.08349401723562322
+"Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists, luciferase reporter gene qHTS assay in human keratinocytes: Summary",0.6608419304971089
+Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists: luciferase reporter gene qHTS assay in human keratinocytes,0.6533029560764378
+Nuclear factor erythroid 2-related factor 2/antioxidant responsive element (Nrf2/ARE) small molecule agonists: qHTS cell viability counter screen in human keratinocytes,0.4063567746973239
+"P-glycoprotein substrates identified in KB-3 adenocarcinoma cell line, qHTS therapeutic library screen",0.3784654901808763
+"P-glycoprotein substrates identified in KB-8-51 adenocarcinoma cell line, qHTS therapeutic library screen",0.3747799116886791
+Primary biochemical fluorescence polarization-based high throughput screening assay to identify inhibitors of protein arginine methyltransferase 1 (PRMT1),1.0
+Primary cell-based high-throughput screening for identification of compounds that inhibit/block calcium-activated chloride channels (TMEM16A),0.7426029602141121
+Primary cell-based screen for identification of compounds that allosterically activate the Choline Transporter (CHT),0.6744381428180644
+Primary qHTS Assay for Inhibitors of Recombinant Selenoprotein Glutathione Peroxidase 1 (GPX1),0.2584359319356846
+Primary qHTS Assay for Inhibitors of Recombinant Selenoprotein Glutathione Peroxidase 4 (GPX4),0.3306106095741978
+Primary qHTS assay for inhibitors of Glutamate pyruvate transaminase 2 (GPT2),1.0
+Primary qHTS for Inhibitors of ATXN expression,0.49562395646559
+Primary qHTS for Inhibitors of N-terminal methyltransferase 1 (NTMT1): MTaseGlo Assay,0.43384209903750026
+"Primary qHTS for delayed death inhibitors of the malarial parasite plastid, 48 hour incubation",0.6209138781044263
+"Primary qHTS for delayed death inhibitors of the malarial parasite plastid, 96 hour incubation",1.0
+Primary qHTS for inhibitors of MERS-S pseudo-typed particle cell entry,0.8407830515782406
+Primary qHTS for inhibitors of SARS-S pseudo-typed particle cell entry,1.0
+Primary qHTS for inhibitors of nuclear receptor binding SET domain protein 2 (NSD2) in an RCH-ACV wild type WT cells (2C),0.1132203385927541
+Primary qHTS for inhibitors of nuclear receptor binding SET domain protein 2 (NSD2) in an isogenic RCH-ACV NSD2 p.E1099K mutant (9B),0.03492213636028697
+Primary qHTS to identify gynecologic anti-cancer compounds using libraries of approved drugs and bioactive compounds,0.1003064614164293
+Primary qHTS to identify inhibitors of SARS-CoV-2 cell entry,0.43576359907753404
+Primary screen GU AMC qHTS for Zika virus inhibitors,0.4403386266858986
+"Progesterone receptor (PR) small molecule agonists, qHTS assay: Summary",1.0
+"Progesterone receptor (PR) small molecule antagonists, qHTS assay: Summary",0.06338071339812743
+Protection from expanded polyglutamine huntingtin toxicity in PC12 cells,1.0
+Protection from expanded polyglutamine huntingtin toxicity in PC12 cells (LDH016),1.0
+Protection from expanded polyglutamine huntingtin toxicity in PC12 cells (LDH08),1.0
+Protection from expanded polyglutamine huntingtin toxicity in PC12 cells (LDH100),1.0
+Protection from expanded polyglutamine huntingtin toxicity in PC12 cells (LDH20),1.0
+"Rat pregnane X receptor (rPXR) activation by small molecules, qHTS assay",0.989764419945917
+S16 Schwann cell PMP22 intronic element beta-lactamase assay,0.8160616848363217
+S16 Schwann cell PMP22 intronic element firefly luciferase assay,0.8658224976684087
+S16 Schwann cell viability assay (CellTiter-Glo assay),0.9949902937092765
+SW480 viability from Cell TiterGlo-screen,0.08775122770153593
+Screen for inhibitors of RMI FANCM (MM2) intereaction,0.9941889962784248
+"TGF-beta/Smad small molecule antagonists, qHTS assay: Summary",0.7535811336359809
+"The chemical genetic matrix (CGM) dataset as reported in Wildenhain et al. (2015) Prediction of Synergism from Chemical-Genetic Interactions by Machine Learning. Cell Systems Volume 1, Issue 6, p383-395",0.22144395983603066
+Toxoplasma gondii HTS in the absence of IFN-y,0.12975087498960872
+Toxoplasma gondii inhibition HTS in the presence of IFN-y,0.00577676886325286
+VEGF stimulated ADSC/ECFC co-culture CD31-stained tube area decrease-screen,0.14489198913526521
+VP16 counterscreen qHTS for inhibitors of ROR gamma transcriptional activity,0.5648440834469306
+Validation qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2),0.844842178787725
+Viability Counterscreen for Primary qHTS for Inhibitors of ATXN expression,0.29018834735983673
+insulin secretion from INSE cells in the presence of 5 mM glucose-screen,1.0
+mouse cGAS RapidFire screen,0.4926684001739139
+nuclear beta catenin stimulation in WNT3A conditioned C2C12 cells-screen,0.27564424319711645
+p450-cyp1a2,0.22332465591512934
+"p53 small molecule agonists, cell-based qHTS assay",0.053103722844026646
+"p53 small molecule agonists, cell-based qHTS assay with human liver microsomes: qHTS cell viability counter screen",1.0
+"p53 small molecule agonists, cell-based qHTS assay with rat liver microsomes: qHTS cell viability counter screen",0.8482464228269829
+"p53 small molecule agonists, cell-based qHTS assay: Summary",0.150835572940108
+"p53 small molecule agonists, cell-based qHTS assay: qHTS cell viability counter screen",0.7091961543948784
+qHTS Assay for Antagonists of the Relaxin Receptor RXFP1,0.6808851454366402
+qHTS Assay for Identification of Small Molecule Antagonists for Hypoxia Response Element Signaling Pathway,0.587410150590924
+"qHTS Assay for Identifying Compounds that block Entry of Ebola Virus, Screen 2 blue channel",0.42435700792235653
+"qHTS Assay for Identifying Compounds that block Entry of Ebola Virus, Screen 2 ratio channel",0.4195188996738759
+"qHTS Assay for Identifying Compounds that block Entry of Ebola Virus: Screen2, ratio channel",0.6858914361781168
+qHTS Assay for Identifying Gametocytocidal Compounds,1.0
+qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C19,1.0
+qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C9,0.42023815522552455
+qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2D6,0.09753189658324017
+qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4,0.6787079631381037
+qHTS Assay for Inhibitors of  Human Jumonji Domain Containing 2E (JMJD2E),0.7334980302928518
+qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1),1.0
+qHTS Assay for Inhibitors of BAZ2B,0.056522515862760296
+qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase),0.957896311956607
+qHTS Assay for Inhibitors of Bloom's syndrome helicase (BLM),0.5224216299022384
+"qHTS Assay for Inhibitors of Fructose,6-bisphosphate Aldolase from Giardia Lamblia",0.2727206729982559
+qHTS Assay for Inhibitors of GCN5L2,0.0816701661489192
+"qHTS Assay for Inhibitors of HADH2 (Hydroxyacyl-Coenzyme A Dehydrogenase, Type II)",1.0
+qHTS Assay for Inhibitors of HPGD (15-Hydroxyprostaglandin Dehydrogenase),0.010685506633947274
+"qHTS Assay for Inhibitors of HSD17B4, hydroxysteroid (17-beta) dehydrogenase 4",0.983591399898346
+qHTS Assay for Inhibitors of Hepatitis C Virus (HCV),0.39437898668667015
+qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a,0.8025020570462421
+qHTS Assay for Inhibitors of JMJD2A-Tudor Domain,0.7589460182214683
+qHTS Assay for Inhibitors of Mammalian Selenoprotein Thioredoxin Reductase 1 (TrxR1): qHTS,0.47580540728555654
+qHTS Assay for Inhibitors of RecQ-Like Dna Helicase 1 (RECQ1),0.04134717981358293
+qHTS Assay for Inhibitors of the Human Apurinic/apyrimidinic Endonuclease 1 (APE1),0.07500510417888369
+qHTS Assay for Small Molecule Inhibitors of the Human hERG Channel Activity,0.27517750180364986
+qHTS Assay for Spectroscopic Profiling in 4-MU Spectral Region,0.9727762168041119
+qHTS Assay for Spectroscopic Profiling in A350 Spectral Region,1.0
+qHTS Assay for inhibitors of the human cytomegalovirus (HCMV),0.32477881223647853
+qHTS Assay for the Inhibitors of Schistosoma Mansoni Peroxiredoxins,0.25307507188160283
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 0 hour,0.6652856584142843
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 16 hour,1.0
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 24 hour,0.47472318008363423
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 32 hour,0.12116792405806119
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 40 hour,0.07918727650498421
+qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 8 hour,0.8349613943156177
+qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 0 hour,0.866307791071679
+qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 16 hour,0.5855179319277836
+qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 24 hour,0.6119972097662509
+qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 32 hour,0.2932394107780235
+qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 40 hour,0.83621583743017
+qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 8 hour,0.7713791212356754
+qHTS Screen for Compounds that Selectively Target Cancer Cells with p53 Mutations: Cytotoxicity of p53ts Cells at the Nonpermissive Temperature,0.7051198915554275
+qHTS assay for MDR1-selective chemotherapeutics: Primary screen using the drug-selected MDR subline cells KB-V1,0.5322060521836143
+qHTS assay for MDR1-selective chemotherapeutics: Primary screen using the parental adenocarcinoma cell KB-3,1.0
+qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line,0.3306417756025561
+qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line,0.30115997504806735
+qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line,0.7212667209686545
+qHTS assay for small molecule activators of the heat shock response signaling pathway - cell viability counter screen,1.0
+qHTS assay for small molecule activators of the heat shock response signaling pathway: Summary,0.07277347331833103
+qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway,0.05872162313374922
+qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway - cell viability counter screen,0.5514196891601781
+qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway: Summary,0.010113258501481334
+qHTS assay for small molecule agonists of the p53 signaling pathway,0.18615666845979578
+qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability,0.21188960502116938
+qHTS assay for small molecule agonists of the p53 signaling pathway: Summary,0.1609737465800525
+qHTS assay for small molecule disruptors of the mitochondrial membrane potential,0.055941996241138714
+qHTS assay for small molecule disruptors of the mitochondrial membrane potential - cell viability,0.03572708319440621
+qHTS assay for small molecule disruptors of the mitochondrial membrane potential: Summary,0.04868574160722289
+qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5,1.0
+qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability,0.6241609464457893
+qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5: Summary,0.9872926339741457
+qHTS assay to identify aromatase inhibitors,1.0
+qHTS assay to identify aromatase inhibitors - cell viability counter screen,0.17773946951077788
+qHTS assay to identify aromatase inhibitors: Summary,0.430745787878249
+qHTS assay to identify novel small-molecules to repurpose for Merkel cell carcinoma treatment,0.11731672024587529
+qHTS assay to identify small molecule HDAC inhibitors,0.8805696923315778
+qHTS assay to identify small molecule HDAC inhibitors: Summary,0.5361076981585546
+qHTS assay to identify small molecule agonists of H2AX,0.4387036216370599
+qHTS assay to identify small molecule agonists of H2AX - cell viability counter screen,0.5810764740123054
+qHTS assay to identify small molecule agonists of H2AX: Summary,0.06290331665181559
+qHTS assay to identify small molecule agonists of the AP signaling pathway - cell viability counter screen,0.2644678450750164
+qHTS assay to identify small molecule agonists of the AP signaling pathway: Summary,0.5601761773312492
+qHTS assay to identify small molecule agonists of the NFkB signaling pathway - cell viability counter screen,0.5010157835969697
+qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen,0.23582308493050572
+qHTS assay to identify small molecule agonists of the RXR signaling pathway: Summary,0.43510257995541946
+qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line,0.8069598341355579
+qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway,0.6482783688692737
+qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist,0.8730960721426448
+qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist - cell viability counter screen,0.9703063153257253
+qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist: Summary,0.7652200786669318
+qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway: Summary,0.7058302863724802
+qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway,0.24449752273792819
+qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway - cell viability counter screen,0.1912615355669889
+qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway: Summary,0.6144993789480334
+qHTS assay to identify small molecule agonists of the endoplasmic reticulum stress response signaling pathway - cell viability counter screen,0.8871759295193706
+qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway,0.6135674593016538
+qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway in the presence of an antagonist,0.14612874354727776
+qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway in the presence of an antagonist - cell viability counter screen,1.0
+qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway in the presence of an antagonist: Summary,0.0626557150275515
+qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line,0.45125651209937223
+qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary,0.6135674593016538
+qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway,0.028836731725951845
+qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway - cell viability counter screen,0.20417705813300255
+qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway: Summary,0.034405413854623305
+qHTS assay to identify small molecule agonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library,0.2714679648995111
+qHTS assay to identify small molecule agonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library: Summary,0.1449122536569218
+qHTS assay to identify small molecule agonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library,0.202669438693548
+qHTS assay to identify small molecule agonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library: Summary,0.2224562384210616
+qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen,1.0
+qHTS assay to identify small molecule agonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary,0.7602422820475202
+qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway,1.0
+qHTS assay to identify small molecule agonists of the glucocorticoid receptor (GR) signaling pathway: Summary,1.0
+qHTS assay to identify small molecule agonists of the hypoxia (HIF) signaling pathway - cell viability counter screen,0.9910134558706876
+qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen,0.9580004860100225
+qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway,0.022329764599267762
+qHTS assay to identify small molecule agonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary,0.0005817229069977183
+qHTS assay to identify small molecule agonists of the progesterone receptor (PR) signaling pathway,1.0
+qHTS assay to identify small molecule agonists of the progesterone receptor (PR) signaling pathway - cell viability counter screen,0.07727316375300317
+qHTS assay to identify small molecule agonists of the retinoic acid receptor (RAR) signaling pathway,0.022997761860409454
+qHTS assay to identify small molecule agonists of the sonic hedgehog signaling (Shh) pathway - cell viability counter screen,0.13107003855419558
+qHTS assay to identify small molecule agonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway,0.16821833758279991
+qHTS assay to identify small molecule agonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway: Summary,0.34322348510193834
+qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen,1.0
+qHTS assay to identify small molecule antagonists of the TGF-beta/Smad signaling pathway - cell viability counter screen,0.9605410446218092
+qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway - cell viability counter screen,0.29115633314686085
+qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line,0.32802832998464015
+qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line - cell viability counter screen,0.7698055645650919
+qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway,0.21701058183572686
+qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881,0.29235688774103014
+qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881 - cell viability counter screen,0.5214890439983264
+qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881: Summary,0.04579049033344431
+qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line: Summary,0.025888380850585355
+qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway: Summary,0.01680992625537129
+qHTS assay to identify small molecule antagonists of the constitutive androstane receptor (CAR) signaling pathway,0.2664581641132898
+qHTS assay to identify small molecule antagonists of the constitutive androstane receptor (CAR) signaling pathway - cell viability counter screen,0.6710766345828965
+qHTS assay to identify small molecule antagonists of the constitutive androstane receptor (CAR) signaling pathway: Summary,0.15681363220513403
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway,0.16772024342723138
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway - cell viability counter screen,0.944755430239822
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line,0.5172110008891069
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line - cell viability counter screen,0.8385113941932157
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol,0.6923621917335019
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol - cell viability counter screen,0.5490492069901136
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol: Summary,0.4994476082672932
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line: Summary,0.5172110008891069
+qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway: Summary,0.16772024342723138
+qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway,0.2705001615595741
+qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway - cell viability counter screen,0.09266105289067693
+qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway: Summary,0.056905302793537275
+qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library,0.00382788202229002
+qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library - cell viability counter screen,0.029769561794838674
+qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library: Summary,0.026446125361555963
+qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library,0.05144132309913059
+qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library - cell viability counter screen,0.612439119138184
+qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library: Summary,0.1389622128056514
+qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway,0.4400750842266654
+qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway - cell viability counter screen,0.19407119346940374
+qHTS assay to identify small molecule antagonists of the farnesoid-X-receptor (FXR) signaling pathway: Summary,0.16834142458495055
+qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway,0.15644227876581904
+qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway - cell viability counter screen,0.7173816491417093
+qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway: Summary,0.03599567614956836
+qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway,0.01936492731042026
+qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway - cell viability counter screen,1.0
+qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor delta (PPARd) signaling pathway: Summary,1.0
+qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen,0.6037554687874362
+qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway: Summary,0.020109669712079902
+qHTS assay to identify small molecule antagonists of the progesterone receptor (PR) signaling pathway,0.01167517994874622
+qHTS assay to identify small molecule antagonists of the progesterone receptor (PR) signaling pathway - cell viability counter screen,0.07641885915529822
+qHTS assay to identify small molecule antagonists of the retinoic acid receptor (RAR) signaling pathway ,0.06943694359911433
+qHTS assay to identify small molecule antagonists of the retinoic acid receptor (RAR) signaling pathway: Summary,0.042529507138534935
+qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway ,0.09133839158675429
+qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway - cell viability counter screen,1.0
+qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway: Summary,0.052515038886083686
+qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway,0.004474810817194455
+qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway - cell viability counter screen,0.11679577401673322
+qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway: Summary,0.7604159790576295
+qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway,0.030522380073039083
+qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen,0.5922547691385943
+qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway: Summary,0.01218854807563222
+qHTS assay to identify small molecule antagonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway,1.0
+qHTS assay to identify small molecule antagonists of the thyroid stimulating hormone receptor (TSHR) signaling pathway: Summary,0.25711370165634906
+qHTS assay to identify small molecule antagonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen,1.0
+qHTS assay to identify small molecule inhibitors of chordoma cells - UCH,0.8324158355499787
+qHTS assay to identify small molecule inhibitors of firefly luciferase,0.02018178298428658
+qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway,0.41819472008545766
+qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway - cell viability counter screen,0.6425937683233653
+qHTS assay to identify small molecule that activate the aryl hydrocarbon receptor (AhR) signaling pathway: Summary,0.18062246621984143
+qHTS for Agonists of Human Resolvin D1 Receptor DRV1,1.0
+qHTS for Inhibitors of Inflammasome Signaling:  IL-beta AlphaLISA Primary Screen,0.5414072904884732
+qHTS for Inhibitors of PLK1-PDB (polo-like kinase 1 - polo-box domain): Primary Screen,0.2583824446469681
+qHTS for Inhibitors of Polymerase Eta,0.4152969647177993
+qHTS for Inhibitors of Polymerase Iota,1.0
+qHTS for Inhibitors of Polymerase Kappa,0.9518959057583539
+qHTS for Inhibitors of TGF-b,0.5460886988873916
+qHTS for Inhibitors of TGF-b: Cytotox Counterscreen,0.156092340204363
+"qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding",0.8566501407811465
+qHTS for Inhibitors of binding or entry into cells for Lassa Virus,0.4125847874682439
+qHTS for Inhibitors of binding or entry into cells for Marburg Virus,0.10127487718936336
+qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in absence of CPT,0.4267502560857013
+qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT,0.6173919379715466
+qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lassa (LASV) Arenavirus: Viability assay - alamar blue signal for LASV Primary Screen,0.21442536967959466
+qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): LCMV Primary Screen - GLuc reporter signal,0.15842166092128415
+qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): Viability assay - alamar blue signal for LCMV Primary Screen,1.0
+qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS for the HT080-IDH1KD cell line,0.10534205970365779
+qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS for the HT080-NT fibrosarcoma cell line,0.5693234358019281
+qHTS for inhibitors of ROR gamma transcriptional activity,0.7962571310084245
+qHTS of D3 Dopamine Receptor Agonist: qHTS,0.012408095083253627
+qHTS of D3 Dopamine Receptor Antagonist: qHTS,0.39262777069926846
+qHTS of D3 Dopamine Receptor Potentiators: qHTS,0.012408095083253627
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for A673 cells,0.43100604409888355
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for BT2 cells,0.19039411527748548
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for BT-37 cells,0.48758982771015813
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for DAOY cells,0.06164272140002237
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for LAN-5 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for MG 63 (6-TG R) cells,0.9359482004597455
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for NB-EBc1 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for NB1643 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for OHS-50 cells,0.31754557760503854
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for RD cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for Rh18 cells,0.9386140437096766
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for Rh41 cells,0.6705733370775773
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for SJ-GBM2 cells,0.9269061180064642
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for SK-N-MC cells,0.16319201259208715
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for SK-N-SH cells,0.6036352265043481
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for Saos-2 cells,0.12753250340269184
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for TC32 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for U-2 OS cells,0.4456984500547425
+qHTS profiling assay for firefly luciferase inhibitor/activator using purifed enzyme and Km concentrations of substrates (counterscreen for miR-21 project),0.15987837187883594
+qHTS profiling for inhibitors of Plasmodium falciparum proliferation,0.24551964593224776
+uHTS Fluorescent assay for identification of inhibitors of Apaf,0.6356506573356102
+uHTS for identification of Inhibitors of Mdm2/MdmX interaction in luminescent format.,0.9263708881725222
+uHTS identification of cystic fibrosis induced NFkb Inhibitors in a fluoresence assay,0.22667201699278175
+uHTS identification of small molecule inhibitors of the mitochondrial permeability transition pore via an absorbance assay,0.813881362782047
+A qHTS for Small Molecule Inhibitors of Shiga Toxin,0.5216689839004323
+Agonist activity at human ADRA1A in an in vitro cell-based assay (NIBR assay) measured by fluorescent imaging plate reader,1.0
+Agonist activity at human ADRA2A in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Agonist activity at human DRD1 in an in vitro cell-based assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Agonist activity at human HTR1A in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Agonist activity at human NR1I2 in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+AlphaScreen-based biochemical high throughput primary assay to identify inhibitors of Unc-51 Like Autophagy Activating Kinase 1 (ULK1).,0.07802741398498787
+Antagonist activity at human ADRA2A in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Antagonist activity at human CHRM2 in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Antagonist activity at human HRH1 in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Antagonist activity at human HTR1A in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Antagonist activity at human HTR2A in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Antagonist activity at human HTR2B in an in vitro cell-based assay measured by fluorescent imaging plate reader,1.0
+Binding affinity towards human ADORA3 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human ADRA1A in an in vitro assay with cellular components (NIBR assay) measured by scintillation proximity assay,1.0
+Binding affinity towards human ADRA2B in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human ADRB2 in an in vitro assay with cellular components measured by radioactivity method,1.0
+Binding affinity towards human ADRB3 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human AGTR1 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human CHRM3 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human CNR1 in an in vitro assay with cellular components measured by membrane filtration,1.0
+"Binding affinity towards human DRD2 in an in vitro assay with cellular components measured by membrane filtration, scintillation proximity assay",1.0
+Binding affinity towards human ESR1 in an in vitro cell free assay (NIBR assay) measured by fluorescence polarization method,1.0
+Binding affinity towards human GHSR in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human HRH1 in an in vitro assay measured by filtration,1.0
+Binding affinity towards human HRH2 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human HTR2A in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human HTR2B in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human HTR2C in an in vitro assay with cellular components measured by radioactivity method,1.0
+Binding affinity towards human MC3R in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Binding affinity towards human MLNR in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+"Binding affinity towards human NR3C1 in an in vitro cell free assay measured by filtration, radioactivity method",1.0
+Binding affinity towards human OPRD1 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+"Binding affinity towards human OPRK1 in an in vitro assay with cellular components measured by membrane filtration, scintillation proximity assay",1.0
+Binding affinity towards rat Ar in an in vitro cell free assay measured by fluorescence polarization method,1.0
+CCRIS mutagenicity studies,0.2410710248675293
+"Compound was evaluated for inhibition of human ABCB11 in an in vitro assay with cellular components measured by filtration, liquid scintillation counting",1.0
+Compound was evaluated for inhibition of human ADRA2C in an in vitro assay with cellular components measured by membrane filtration,1.0
+Compound was evaluated for inhibition of human ADRB1 in an in vitro assay measured by radioactivity method,1.0
+Compound was evaluated for inhibition of human CHRM1 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+"Compound was evaluated for inhibition of human HTR3A in an in vitro assay with cellular components measured by membrane filtration, radioactivity method",1.0
+Compound was evaluated for inhibition of human PDE4D in an in vitro cell free assay measured by scintillation proximity assay,1.0
+Compound was evaluated for inhibition of human PTGS2 in an in vitro cell free assay measured by fluorescence spectroscopy,1.0
+Compound was evaluated for inhibition of rat Cacna1c in an in vitro assay with cellular components measured by membrane filtration,1.0
+Compound was evaluated for inhibition of rat Gabra1 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Compound was evaluated for inhibition of rat Ptgs1 in an in vitro cell free assay measured by fluorescence spectroscopy,1.0
+Cytotoxicity against human A549 cells after 72 hrs by MTT assay,1.0
+DRUGMATRIX: Adenosine A2A radioligand binding (ligand: AB-MECA),1.0
+DRUGMATRIX: Adenosine A3 radioligand binding (ligand: AB-MECA),1.0
+DRUGMATRIX: Adrenergic Alpha-2C radioligand binding (ligand: [3H] MK-912),1.0
+DRUGMATRIX: Adrenergic beta1 radioligand binding (ligand: [125I] Cyanopindolol),1.0
+DRUGMATRIX: Adrenergic beta2 radioligand binding (ligand: [3H] CGP2177),1.0
+DRUGMATRIX: Adrenergic beta3 radioligand binding (ligand: [125I] Cyanopindolol),1.0
+DRUGMATRIX: Aldose Reductase enzyme inhibition (substrate: DL-Glyceraldehyde),1.0
+DRUGMATRIX: AlphaA adrenergic receptor radioligand binding (ligand: prazosin),1.0
+DRUGMATRIX: AlphaB adrenergic receptor radioligand binding (ligand: prazosin),1.0
+DRUGMATRIX: AlphaD adrenergic receptor radioligand binding (ligand: prazosin),1.0
+DRUGMATRIX: Alpha-2A adrenergic receptor radioligand binding (ligand: MK-912),1.0
+DRUGMATRIX: Alpha-2B adrenergic receptor radioligand binding (ligand: Rauwolscine),1.0
+DRUGMATRIX: Androgen (Testosterone) AR radioligand binding (ligand: [3H] Mibolerone),1.0
+"DRUGMATRIX: CYP450, 1A2 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",1.0
+"DRUGMATRIX: CYP450, 2C19 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",1.0
+"DRUGMATRIX: CYP450, 2C9 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",1.0
+"DRUGMATRIX: CYP450, 2D6 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",1.0
+"DRUGMATRIX: CYP450, 3A4 enzyme inhibition (substrate: 7-Benzyloxy-4-(trifluoromethyl)-coumarin)",1.0
+"DRUGMATRIX: Calcium Channel Type L, Benzothiazepine radioligand binding (ligand: [3H] Diltiazem)",1.0
+"DRUGMATRIX: Calcium Channel Type L, Dihydropyridine radioligand binding (ligand: [3H] Nitrendipine)",1.0
+"DRUGMATRIX: Calcium Channel Type L, Phenylalkylamine radioligand binding (ligand: [3H] (-)-Desmethoxyverapamil (D-888))",1.0
+DRUGMATRIX: Cyclooxygenase COX enzyme inhibition (substrate: Arachidonic acid),1.0
+DRUGMATRIX: Cyclooxygenase COX-2 enzyme inhibition (substrate: Arachidonic acid),1.0
+DRUGMATRIX: Dopamine D1 radioligand binding (ligand: [3H] SCH-23390),1.0
+DRUGMATRIX: Dopamine D2L radioligand binding (ligand: [3H] Spiperone),1.0
+DRUGMATRIX: Dopamine D3 radioligand binding (ligand: [3H] Spiperone),1.0
+DRUGMATRIX: Dopamine D4.2 radioligand binding (ligand: [3H] Spiperone),1.0
+DRUGMATRIX: Dopamine Transporter radioligand binding (ligand: [125I] RTI-55),1.0
+DRUGMATRIX: Glucocorticoid radioligand binding (ligand: [3H] Dexamethasone),1.0
+"DRUGMATRIX: Histamine H1, Central radioligand binding (ligand: [3H] Pyrilamine)",1.0
+DRUGMATRIX: Histamine H2 radioligand binding (ligand: [125I] Aminopotentidine),1.0
+"DRUGMATRIX: Imidazoline I2, Central radioligand binding (ligand: [3H] Idazoxan)",1.0
+DRUGMATRIX: Lipoxygenase 15-LO enzyme inhibition (substrate: Linoleic acid),1.0
+DRUGMATRIX: Muscarinic M1 radioligand binding (ligand: [3H] N-Methylscopolamine),1.0
+DRUGMATRIX: Muscarinic M2 radioligand binding (ligand: [3H] N-Methylscopolamine),1.0
+DRUGMATRIX: Muscarinic M3 radioligand binding (ligand: [3H] N-Methylscopolamine),1.0
+DRUGMATRIX: Muscarinic M4 radioligand binding (ligand: [3H] N-Methylscopolamine),1.0
+DRUGMATRIX: Muscarinic M5 radioligand binding (ligand: [3H] N-Methylscopolamine),1.0
+DRUGMATRIX: Norepinephrine Transporter radioligand binding (ligand: [125I] RTI-55),1.0
+"DRUGMATRIX: Opiate delta1 (OP1, DOP) radioligand binding (ligand: [3H] Naltrindole)",1.0
+"DRUGMATRIX: Opiate kappa (OP2, KOP) radioligand binding (ligand: [3H] Diprenorphine)",1.0
+"DRUGMATRIX: Opiate mu (OP3, MOP) radioligand binding (ligand: [3H] Diprenorphine)",1.0
+DRUGMATRIX: Potassium Channel HERG radioligand binding (ligand: [3H] Astemizole),1.0
+DRUGMATRIX: Progesterone radioligand binding (ligand: [3H] R-5020),1.0
+"DRUGMATRIX: Protein Tyrosine Kinase, EGF Receptor enzyme inhibition (substrate: Poly(Glu:Tyr))",1.0
+"DRUGMATRIX: Protein Tyrosine Kinase, Fyn enzyme inhibition (substrate: Poly(Glu:Tyr))",1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT1A radioligand binding (ligand: [3H] 8-OH-DPAT),1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT1B radioligand binding (ligand: [125I] Cyanopindolol),1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2A radioligand binding (ligand: [3H] Ketanserin),1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2B radioligand binding (ligand: [3H] Lysergic acid diethylamide),1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT2C radioligand binding (ligand: [3H] Mesulergine),1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT4 radioligand binding (ligand: [3H] GR13808),1.0
+DRUGMATRIX: Serotonin (5-Hydroxytryptamine) 5-HT6 radioligand binding (ligand: [3H] Lysergic acid diethylamide),1.0
+DRUGMATRIX: Sigma1 radioligand binding (ligand: [3H] Haloperidol),1.0
+DRUGMATRIX: Sigma2 radioligand binding (ligand: [3H] Ifenprodil),1.0
+"DRUGMATRIX: Sodium Channel, Site 2 radioligand binding (ligand: [3H] Batrachotoxin)",1.0
+DRUGMATRIX: Tachykinin NK2 radioligand binding (ligand: [3H] SR-48968),1.0
+DRUGMATRIX: Thromboxane Synthetase enzyme inhibition (substrate: PGH2),1.0
+"DRUGMATRIX: Transporter, Serotonin (5-Hydroxytryptamine) (SERT) radioligand binding (ligand: [3H] Paroxetine)",1.0
+Diffuse intrinsic pontine glioma (JHH-DIPG) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,0.915089883786783
+Diffuse intrinsic pontine glioma (SU-DIPG-XIII) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,0.4170702084512
+Diffuse intrinsic pontine glioma (SU-DIPG-XVII) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,0.9414995533702494
+Diffuse intrinsic pontine glioma (SU-DIPG-XXV) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Fluor,1.0
+Diffuse intrinsic pontine glioma (SU-DIPG-XXV) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,1.0
+"FDA HLAED, alkaline phosphatase increase",0.004380639879973539
+"FDA HLAED, gamma-glutamyl transferase (GGT) increase",0.24403146249246793
+"FDA HLAED, lactate dehydrogenase (LDH) increase",0.9439149706681949
+"FDA HLAED, liver enzyme composite activity",0.000778098154959613
+"FDA HLAED, serum glutamic oxaloacetic transaminase (SGOT) increase",1.4115429307349013e-05
+"FDA HLAED, serum glutamic pyruvic transaminase (SGPT) increase",8.912969983487871e-05
+Inhibition of human CYP1A2 assessed as ratio of IC50 in absence of NADPH to IC50 for presence of NADPH using ethoxyresorufin as substrate after 30 mins,1.0
+Inhibition of human CYP2C19 assessed as ratio of IC50 in absence of NADPH to IC50 for presence of NADPH using 3-butyryl-7-methoxycoumarin as substrate after 30 mins,1.0
+Inhibition of human CYP2C9 assessed as ratio of IC50 in absence of NADPH to IC50 for presence of NADPH using 7-methoxy-4-trifluoromethylcoumarin-3-acetic acid as substrate after 30 mins,1.0
+Inhibition of human CYP2D6 assessed as ratio of IC50 in absence of NADPH to IC50 for presence of NADPH using 4-methylaminoethyl-7-methoxycoumarin as substrate after 30 mins,1.0
+Inhibition of human CYP3A4 assessed as ratio of IC50 in absence of NADPH to IC50 for presence of NADPH using 7-benzyloxyquinoline as substrate after 30 mins,1.0
+Inhibition of human CYP3A4 assessed as ratio of IC50 in absence of NADPH to IC50 for presence of NADPH using diethoxyfluorescein as substrate after 30 mins,1.0
+Primary Screen for Target Class Profiling of Small Molecule Inhibitors of Methyltransferases,0.45002637460509376
+qHTS to identify inhibitors of the type 1 interferon - major histocompatibility complex class I in skeletal muscle: primary screen against the NCATS Mechanism Interrogation Plate v5.0 (MIPE) Libary,1.0
+CCRIS carcinogenicity studies,0.23567670048208741
+GENE-TOX mutagenicity studies,0.004771318940714541
+Agonist activity at human OPRM1 in an in vitro assay with cellular components measured by scintillation proximity assay,1.0
+Agonist activity at human PGR in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Antagonist activity at human PGR in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Binding affinity towards human NR1I2 in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Human mu receptor (Opioid receptors),1.0
+Inhibition of binding of Batrachotoxinin [3H]BTX-B to high affinity sites on voltage dependent sodium channels in a vesicular preparation from guinea pig cerebral cortex,1.0
+"Antibacterial activity against Escherichia coli ATCC 25922 (CO-ADD:GN_001); MIC in CAMBH media using NBS plates, by OD(600)",1.0
+"Antibacterial activity against Staphylococcus aureus MRSA ATCC 43300 (CO-ADD:GP_020); MIC in CAMBH media, using NBS plates, by OD(600)",1.0
+Antiplasmodial activity against Plasmodium falciparum 3D7 after 72 hrs by SYBR green assay,1.0
+Antiviral activity against SARS-CoV-2 (viral titer) measured by plaque assay in Vero cells at MOI 0.0125 after 24 hr,1.0
+Confirmatory Screen for Target Class Profiling of Small Molecule Inhibitors of Methyltransferases,1.0
+Cytotoxicity against human MCF7 cells after 48 hrs by SRB assay,1.0
+"DNDI: Chagas in Vitro, 96 hour",1.0
+"DNDI: HAT in Vitro, 72 hour",1.0
+"DNDI: Malaria in Vitro, 72 hour",1.0
+"DRC analysis by immunofluorescence from Article 10.1128/AAC.00819-20: ""Identification of Antiviral Drug Candidates against SARS-CoV-2 from FDA-Approved Drugs.""",1.0
+Diffuse intrinsic pontine glioma (JHH-DIPG) cell line screen of MIPE4.0 library: viability qHTS assay using CellTiter-Glo,0.9712320709460726
+Diffuse intrinsic pontine glioma (SU-DIPG-IV) cell line screen of MIPE4.0 library: viability qHTS assay using CellTiter-Glo,0.4185699570087734
+Diffuse intrinsic pontine glioma (SU-DIPG-VI) cell line screen of MIPE4.0 library: viability qHTS assay using CellTiter-Glo,0.6335216090767001
+Diffuse intrinsic pontine glioma (SU-DIPG-XIII) cell line screen of MIPE4.0 library: viability qHTS assay using CellTiter-Glo,0.0238466325143774
+HTS Assay for Allosteric Agonists of the Human D1 Dopamine Receptor: Primary Screen for Antagonists,0.8215010838726202
+HTS Assay for Allosteric Antagonists of the Human D2 Dopamine Receptor: Hit Validation in HTRF,0.0049507692191413655
+High Content Imaging Cell-Based qHTS for Inhibitors of the mTORC1 Signaling Pathway in MEF Cells,0.36168362243874264
+Inhibition of CYP3A4,1.0
+Inhibition of human BSEP expressed in fall armyworm sf9 cell plasma membrane vesicles assessed as reduction in vesicle-associated [3H]-taurocholate transport preincubated for 10 mins prior to ATP addition measured after 15 mins in presence of [3H]-taurocholate by topcount based membrane vesicle transport assay,1.0
+Inhibition of human BSEP overexpressed in Sf9 cell membrane vesicles assessed as uptake of [3H]-taurocholate in presence of ATP measured after 15 to 20 mins by membrane vesicle transport assay,1.0
+Inhibition of human ERG,1.0
+Inhibition of human MRP4 overexpressed in Sf9 cell membrane vesicles assessed as uptake of [3H]-estradiol7beta-D-glucuronide in presence of ATP and GSH measured after 20 mins by membrane vesicle transport assay,1.0
+Inhibitor identification of human QSOX1 enzyme: high-throughput screening using HyperBlu(TM) assay,0.970273570720724
+Inhibitor identification of human QSOX1 enzyme: high-throughput screening using ROS-Glo(TM) assay,0.9328205181296524
+Inhibitory concentration against IKr potassium channel,1.0
+Metabolic stability in human liver microsomes assessed as GSH adduct formation at 100 uM after 90 mins by HPLC-MS analysis,1.0
+NCATS Parallel Artificial Membrane Permeability Assay (PAMPA) - Blood-Brain Barrier (BBB) Permeability Screen,0.44289106991961835
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice,0.06647015629793027
+Natriuretic polypeptide receptor (hNpr2) antagonism - Pilot subtype selectivity assay,0.043831735638755566
+"No assay is provided from Article 10.1002/med.21724: ""The recent outbreaks of human coronaviruses: A medicinal chemistry perspective.""",0.31002239744981547
+Phospholipidosis-positive literature compound observed in rat,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  AMO1_DSMZ cell viability assay,0.8479344565955256
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  ARD_JJKsccE7 cell viability assay,0.17357612118315496
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  ARP1_JJKsccF8 cell viability assay,0.5236296699501861
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  Delta47_JCRB cell viability assay,0.2492252624448708
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  EJM_DSMZ cell viability assay,0.18810874777153128
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  FR4_PLB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  H1112_PLB cell viability assay,0.14857335733238636
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  INA6_PLB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  JIM1_ECACC cell viability assay,0.995254060737025
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  JIM3_ECACC cell viability assay,0.6505921684813379
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  JJN3_DSMZ cell viability assay,0.9501767143706988
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection:  Karpas25_ECACC cell viability assay,0.17814667740641704
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KHM11_PLB cell viability assay,0.9167099134385205
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMM1_JCRB cell viability assay,0.7440292359414968
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS12BM_JCRB cell viability assay,0.5152131956176178
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS12PE_JCRB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS20_JCRB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS21BM_JCRB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS26_JCRB cell viability assay,0.6508414214126503
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS27_JCRB cell viability assay,0.48611501020625725
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS28PE_JCRB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: KMS34_JCRB cell viability assay,0.8581732408234761
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: Karpas417_ECACC cell viability assay,0.5252588087560615
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: Karpas620_DSMZ cell viability assay,0.6941221030049907
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: L363_DSMZ cell viability assay,0.551410183271571
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: LP1_DSMZ cell viability assay,0.5672689847453761
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: MM1R_ATCC cell viability assay,0.5747122019609224
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: MM1S_ATCC cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: MMM1_PLB cell viability assay,0.9472825840858714
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: MOLP8_DSMZ cell viability assay,0.4443037992775054
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: NCIH929_DSMZ cell viability assay,0.7680747892848732
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: OCIMY1_PLB cell viability assay,1.0
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: OCIMY5_PLB cell viability assay,0.9207285290445617
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: OCIMY7_PLB cell viability assay,0.9223389720245625
+Quantitative High-Throughput drug screen in 47 multiple myeloma cell lines against the NCATS MIPE library collection: OPM1_PLB cell viability assay,0.6632460539838988
+Rescue cell viability in cybrid cells with a genetic mutation in complex 1 of the mitochondria,0.179314400446332
+Validation screen for small molecules that inhibit ELG1-dependent DNA repair in human embryonic kidney (HEK293T) cells expressing luciferase-tagged ELG1,0.4560326420456019
+qHTS Screen of the MIPE 4.0 Collection Against Ewings Sarcoma (EW8),0.33364008737611506
+qHTS Screen of the MIPE 4.0 Collection Against Ewings Sarcoma (RDES),0.26595615095564196
+qHTS Screen of the MIPE 4.0 Collection Against Ewings Sarcoma (TC32),0.8119106123003286
+qHTS Screen of the MIPE 4.0 Collection Against Ewings Sarcoma (TC71),0.6722863425438572
+qHTS Validation Assay for Inhibitors for MPP8 Chromodomain Interactions with Methylated Histone Tails,1.0
+qHTS Validation Assay for Inhibitors of HP1-beta Chromodomain Interactions with Methylated Histone Tails,0.9614703901919754
+qHTS for Inhibitors of ATXN expression: Validation,0.287070661079522
+qHTS for Inhibitors of Glutaminase (GLS): LOPAC Validation,0.33410381016658897
+qHTS for inhibitors of binding or entry into cells for Marburg Virus,0.09445488786949503
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for A673 cells),1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for BT2 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for BT-37 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for DAOY cells,0.4090678976041089
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for LAN-5 cells,0.9066202986863585
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for MG 63 (6-TG R) cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for NB-EBc1 cells,0.24025054383224842
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for NB1643 cells,0.8367306307697281
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for OHS-50 cells,0.333812841153715
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for RD cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for Rh18 cells,0.42806644281284745
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for Rh30 cells,0.292546605104427
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for Rh41 cells,0.3982254899063532
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for SJ-GBM2 cells,0.15100248726825302
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for SK-N-MC cells,0.8469907141929937
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for SK-N-SH cells,0.09508204063122838
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for Saos-2 cells,0.7164350076831114
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for TC32 cells,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Confirmatory screen for U-2 OS cells,0.4945960197514595
+96-well format Chlamydomonas reinhardtii Algae Gravitaxis Assay to measure the difference in the absorbance between the small compact plug of WT swimming algae versus the MUT algae lacking cilia.,0.3897745469771704
+Aqueous Solubility from MLSMR Stock Solutions,0.19305621822326938
+BK Channel Variant Modulator Selectivity Assay,0.6550356356101141
+Cell Viability - H-4-II-E,0.5756056623933539
+Cell Viability - Hek293,1.0
+Cell Viability - Jurkat,0.37241170169069393
+Cell Viability - LYMP1-002 - Assay at 40 hr,0.2332194713640847
+Cell Viability - LYMP1-003 - Assay at 40 hr,0.25548386970605946
+Cell Viability - LYMP2-010,0.7597699696104405
+Cell Viability - LYMP2-018,0.19268475194899565
+Cell Viability - LYMP2-022,0.9286478673718206
+Cell Viability - LYMP2-024,0.52777870059009
+Cell Viability - N2a,0.9745209772040232
+Cell Viability - NIH 3T3,0.967107781649767
+Cell Viability - Renal Proximal Tubule,0.29016083374549206
+Cell Viability - SH-SY5Y,0.3660610531402879
+Cell Viability - SK-N-SH,0.07861283244437241
+Chemical Genetic Screen to Identify Inhibitors of Mitochondrial Fusion - Primary Screen,0.6982353813665964
+Fluorescent HTS Cytotoxicity/Cell viability assay (HPDE-C7 cells),1.0
+Fluorescent HTS Cytotoxicity/Cell viability assay (HPDE-C7K cells),1.0
+HTS to identify compounds that affect the blood-brain barrier permeability in vitro,0.2550756570183772
+High Throughput Screen to Identify Compounds that Suppress the Growth of Human Colon Tumor Cells Lacking Oncogenic Beta Catenin Expression,0.734710987384337
+High throughput screening of inhibitors of transient receptor potential cation channel C6 (TRPC6),0.8271527908095567
+Human A549 Lung Tumor Cell Growth Inhibition Assay,0.7149903023071433
+Human H69AR Lung Tumor Cell Growth Inhibition Assay - 86K Screen,1.0
+Identification of Novel Modulators of Cl- dependent Transport Process via HTS: Primary Screen,0.88072145483086
+Inhibition of neurosphere proliferation of mouse neural precursor cells by MTT assay,0.583765520678903
+Inhibitors of Cav3 T-type Calcium Channels: Primary Screen,1.0
+Leishmania major promastigote HTS,0.9660702996935479
+Luminescence-based counterscreen assay for KLF5 inhibitors: cell-based high throughput screening assay to identify cytotoxic compounds using the IEC-6 intestinal epithelial cell line.,0.3603404397988442
+MDR,0.3405120647939486
+MLPCN Alpha-Synuclein 5'UTR - 5'-UTR binding - activators,0.3944853446494645
+MLPCN Alpha-Synuclein 5'UTR - 5'-UTR binding - inhibitors,0.3030171598529589
+MLPCN Streptokinase Expression Inhibition,0.0158606908380745
+MultiTox-Fluor Cytotoxicity Assay - LYMP1-002 - Dead Cells,0.19840519563270337
+MultiTox-Fluor Cytotoxicity Assay - LYMP1-003 - Dead Cells,0.017510117947101108
+"Multiplex HTS Assay for Inhibitors of MEK Kinase PB1 Domains, specifically MEK5 binding to MEK Kinase 2 Wildtype",1.0
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  Colon Carcinoma 38 (subcutaneous) in B6D2F1 (BDF1) mice,0.9740862651017654
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice,0.1878761903042781
+Optimization of GU AMC qHTS for Zika virus inhibitors: Unlinked NS2B-NS3 protease assay,0.9035751925923317
+Primary cell-based high throughput assay for inhibitors of the Janus kinase 2 mutant JAK2V617F,0.9561100301693517
+Primary cell-based high-throughput screening assay for identification of compounds that inhibit KCNQ2 potassium channels,1.0
+Primary cell-based high-throughput screening assay for identification of compounds that inhibit/block inward-rectifying potassium ion channel Kir2.1,1.0
+"Quantitative high throughput screen for delayed death inhibitors of the malarial parasite plastid, 48 hour incubation",0.5567317068981972
+"Quantitative high throughput screen for delayed death inhibitors of the malarial parasite plastid, 96 hour incubation",0.9098020428687134
+qHTS Assay for Antagonists of Acetylcholine Muscarinic M1 Receptor: Kinetic Measurement of Intracellular Calcium Response,0.2880493004503557
+qHTS Assay for Antagonists of Acetylcholine Muscarinic M1 Receptor: Measurement of IP-One Response,0.8642685675536753
+qHTS Assay for Antagonists of the Neuropeptide S Receptor: cAMP Signal Transduction,1.0
+qHTS Assay for Identification of Small Molecule Antagonists for Thrombopoietin (TPO) Signaling Pathway,1.0
+"qHTS Assay for Identifying Compounds that block Entry of Ebola Virus, Screen 1 blue channel",1.0
+"qHTS Assay for Identifying Compounds that block Entry of Ebola Virus: Screen1, ratio channel",0.7900052339812336
+qHTS Assay for Inhibitors of N-terminal methyltransferase 1 (NTMT1): LOPAC validation of the NTMT1 SAHH-coupled ThioGlo3 Assay,0.4571387728888082
+qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against a panel of isogenic chicken DT40 cell lines with known DNA damage response pathways,0.5971939687670443
+qHTS assay for small molecule activators of the human pregnane X receptor (PXR) signaling pathway,0.19638739526724572
+qHTS assay for small molecule activators of the p53 signaling pathway,1.0
+qHTS assay for small molecule activators of the rat pregnane X receptor (rPXR) signaling pathway,1.0
+qHTS assay for small molecule antagonists of glucocorticoid receptor signaling,0.9526257776070592
+qHTS assay for small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway,0.7953128208088263
+qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 1 hr assay,0.8173489528848831
+qHTS assay for small molecule disruptors of the mitochondrial membrane potential - 5 hr assay,0.45258707215714244
+qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway ,1.0
+qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC),1.0
+qHTS for Inhibitors of Plasmodium falciparum proliferation: Summary,1.0
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line 3D7,0.6925403441447235
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line 7G8,1.0
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line D10,0.6460405833868256
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line Dd2,0.6838005304091254
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line GB4,0.5568489731077471
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line HB3,0.5893270936610537
+qHTS for differential inhibitors of proliferation of Plasmodium falciparum line W2,0.37258268026796826
+Counterscreen for BLMA Inhibitors: ADP Fluorescence Polarization Displacement Assay,1.0
+Counterscreen for RECQ1 Inhibitors: ADP Fluorescence Polarization Displacement Assay,1.0
+Agonist activity at rat Ar in an in vitro cell free assay measured by time-resolved fluorescence resonance energy transfer method,1.0
+Induction of mitochondrial dysfunction in Sprague-Dawley rat liver mitochondria assessed as inhibition of mitochondrial respiration per mg mitochondrial protein measured for 20 mins by A65N oxygen probe based fluorescence assay,1.0
+Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33,1.0
+Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway,1.0
+Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells,1.0
+Nrf2 qHTS screen for inhibitors: Nrf2 A549 ARE-Fluc Confirmation Assay for Hit Validation,1.0
+Phenotypic HTS multiplex for antifungal efflux pump inhibitors with Validation compound Set,1.0
+Total Cmax in human administered as single dose,1.0
+Unbound Cmax in human plasma,1.0
+Wombat Data for BeliefDocking,1.0
+384 well plate NINDS AMC confirmatory qHTS for Zika virus inhibitors,0.7537128136328131
+384 well plate NINDS Rhodamine confirmatory qHTS for Zika virus inhibitors,1.0
+DSSTox (CPDBAS) Carcinogenic Potency Database Salmonella Mutagenicity,0.3088511047203547
+DSSTox (CPDBAS) Carcinogenic Potency Database Summary Mouse Bioassay Results,0.9935264582358071
+DSSTox (CPDBAS) Carcinogenic Potency Database Summary MultiCellCall Results,0.35792195723688636
+DSSTox (CPDBAS) Carcinogenic Potency Database Summary Rat Bioassay Results,0.052971745528488455
+DSSTox (CPDBAS) Carcinogenic Potency Database Summary SingleCellCall Results,0.20677917951810096
+Furin counterscreen qHTS for Zika virus inhibitors,0.12208138042400786
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (intraperitoneal) in B6D2F1 (BDF1) mice,0.763024600552995
+NCI human tumor cell line growth inhibition assay. Data for the 786-0 Renal cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the A498 Renal cell line,0.6928900811071856
+NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line,0.8560496703118965
+NCI human tumor cell line growth inhibition assay. Data for the ACHN Renal cell line,0.969095757127322
+NCI human tumor cell line growth inhibition assay. Data for the BT-549 Breast cell line,0.6538193334124995
+NCI human tumor cell line growth inhibition assay. Data for the CAKI Renal cell line,0.9035230489230105
+NCI human tumor cell line growth inhibition assay. Data for the CCRF-CEM Leukemia cell line,0.8324280805186962
+NCI human tumor cell line growth inhibition assay. Data for the COLO 205 Colon cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the DU45 Prostate cell line,0.35095298581535506
+NCI human tumor cell line growth inhibition assay. Data for the EKVX Non-Small Cell Lung cell line,0.9252344994795639
+NCI human tumor cell line growth inhibition assay. Data for the HCC-2998 Colon cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the HCT16 Colon cell line,0.9130177959927995
+NCI human tumor cell line growth inhibition assay. Data for the HCT5 Colon cell line,0.9327174017860288
+NCI human tumor cell line growth inhibition assay. Data for the HL-60(TB) Leukemia cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the HOP-62 Non-Small Cell Lung cell line,0.8782751784478802
+NCI human tumor cell line growth inhibition assay. Data for the HOP-92 Non-Small Cell Lung cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the HS 578T Breast cell line,0.510906289747848
+NCI human tumor cell line growth inhibition assay. Data for the HT29 Colon cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the IGROV1 Ovarian cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the K-562 Leukemia cell line,0.9817796963053715
+NCI human tumor cell line growth inhibition assay. Data for the KM12 Colon cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Melanoma cell line,0.9973621213408632
+NCI human tumor cell line growth inhibition assay. Data for the M14 Melanoma cell line,0.7949470705233457
+NCI human tumor cell line growth inhibition assay. Data for the MALME-3M Melanoma cell line,0.8879340986194557
+NCI human tumor cell line growth inhibition assay. Data for the MCF7 Breast cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-231/ATCC Breast cell line,0.9429625208059963
+NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-435 Breast cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the MOLT-4 Leukemia cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the NCI-H226 Non-Small Cell Lung cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the NCI-H322M Non-Small Cell Lung cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the NCI-H460 Non-Small Cell Lung cell line,0.9198122218117385
+NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the NCI/ADR-RES Breast cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the OVCAR-3 Ovarian cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the OVCAR-4 Ovarian cell line,0.3346298837931842
+NCI human tumor cell line growth inhibition assay. Data for the OVCAR-5 Ovarian cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the OVCAR-8 Ovarian cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the PC-3 Prostate cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the RPMI-8226 Leukemia cell line,0.8511670585540675
+NCI human tumor cell line growth inhibition assay. Data for the RXF 393 Renal cell line,0.8269525602232132
+NCI human tumor cell line growth inhibition assay. Data for the SF-268 Central Nervous System cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the SF-295 Central Nervous System cell line,0.5380546384519415
+NCI human tumor cell line growth inhibition assay. Data for the SF-539 Central Nervous System cell line,0.7576544631928543
+NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-2 Melanoma cell line,0.9443138284713452
+NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-28 Melanoma cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-5 Melanoma cell line,0.7641246174159761
+NCI human tumor cell line growth inhibition assay. Data for the SK-OV-3 Ovarian cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the SN12C Renal cell line,0.9094706816196079
+NCI human tumor cell line growth inhibition assay. Data for the SNB9 Central Nervous System cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the SNB-75 Central Nervous System cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the SR Leukemia cell line,1.0
+NCI human tumor cell line growth inhibition assay. Data for the SW-620 Colon cell line,0.8868289433612662
+NCI human tumor cell line growth inhibition assay. Data for the T-47D Breast cell line,0.799808348261679
+NCI human tumor cell line growth inhibition assay. Data for the TK0 Renal cell line,0.5184160038379358
+NCI human tumor cell line growth inhibition assay. Data for the U251 Central Nervous System cell line,0.8714937274447514
+NCI human tumor cell line growth inhibition assay. Data for the UACC-257 Melanoma cell line,0.798707312180073
+NCI human tumor cell line growth inhibition assay. Data for the UACC-62 Melanoma cell line,0.6887731913968347
+NCI human tumor cell line growth inhibition assay. Data for the UO-31 Renal cell line,1.0
+Tertiary RLuc qRT-PCR qHTS assay for Zika virus inhibitors,0.11670161463068326
+Confirmatory qHTS to identify inhibitors of SARS-CoV-2 cell entry,1.0
+Experimentally measured binding affinity data (IC50) for protein-ligand complexes derived from PDB,1.0
+Experimentally measured binding affinity data (Kd) for protein-ligand complexes derived from PDB,1.0
+VSVG counterscreen qHTS to identify inhibitors of SARS-CoV-2 cell entry,1.0
+A counter screen for small molecule screen for inhibitors of the PhoP regulon in Salmonella typhi,1.0
+A cytotoxicity screen of small molecule inhibitors of the PhoP regulon in Salmonella typhi identified in the primary screen,1.0
+A screen for inhibitors of the PhoP regulon in Salmonella Typhi using a modified counterscreen,1.0
+Antiproliferative activity against human MCF7 cells after 72 hrs by MTT assay,1.0
+Caspase-3/7 Activation Profiling of Human Lymphoblast Cell Lines,0.5671096293585215
+Cell Viability Profiling of Human Lymphoblast Cell Lines,0.5067648013362416
+Confirmatory screen NINDS AMC qHTS for Zika virus inhibitors,1.0
+Confirmatory screen NINDS Rhodamine qHTS for Zika virus inhibitors,0.0567584416259285
+Cytotoxicity activity against human HepG2 cells assessed by CellTiter-Glo luminescent cell viability assay.,1.0
+Decreased HeLa cell count-IC50,0.9692974190048833
+HARVARD: Inhibition of liver stage Plasmodium berghei infection in HepG2 cells,1.0
+Increased HeLa cells with 2N DNA content-IC50,0.8278169455724104
+Ligands of bioamine (Class A) GPCRs,1.0
+Luminescence Microorganism-Based Dose Confirmation HTS to Identify Compounds Cytotoxic to SK(-)GAS Group A Streptococcus,1.0
+Luminescence Microorganism-Based Dose Confirmation HTS to Identify Inhibitors of Streptokinase Promotor Activity,1.0
+Luminescence Microorganism-Based Dose Response HTS to Identify Compounds Cytotoxic to Streptococcus,1.0
+Luminescence cell-based Retest at Dose assay to determine EWS/Fli1 dependent TC71 mammalian cell cytotoxity  Measured in Cell-Based System Using Plate Reader - 7014-04_Inhibitor_Dose_CherryPick_Activity,1.0
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (subcutaneous) in B6D2F1 (BDF1) mice,0.6984664186536775
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice,0.4566357208894225
+SANGER: Inhibition of human 697 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 8-MG-BA cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A101D cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A253 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A3-KAW cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A388 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A4-Fuk cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A498 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ACN cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ALL-PO cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human AM-38 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ARH-77 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ATN cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BB30-HNC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BB49-HNC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BB65-RCC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BE3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BL-41 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BL-70 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BT-474 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BV73 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Becker cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human C2BBe1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human C8166 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CCRF-CEM cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CESS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CGTH-W cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CMK cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COLO-320-HSR cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COLO-668 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COLO-684 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COLO-800 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COLO-829 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COR-L279 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CP66-MEL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CTB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CTV cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Calu-6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human D-247MG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human D-263MG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human D-283MED cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human D-392MG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human D-502MG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DEL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DJM cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DMS14 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DMS-79 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DOHH-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DSH1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DU-4475 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Daudi cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EKVX cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EM-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES7 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ES8 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ETK cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW8 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW-24 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EW-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EoL-cell cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GAK cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GCIY cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GDM cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GI cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GI-ME-N cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GOTO cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GR-ST cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GT3TKB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HAL-01 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCC2218 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCC2998 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCE-T cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HD-MY-Z cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HDLM-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HEL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HH cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HL-60 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HOP-62 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HT cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HT44 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HUTU-80 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human IST-MEL1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human IST-MES1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human IST-SL1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human IST-SL2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human J-RT3-T3-5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human JAR cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human JVM-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human JVM-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human K-562 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human K5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KALS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KARPAS-299 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KARPAS-422 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KARPAS-45 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KASUMI cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KE-37 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KGN cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KINGS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KM-H2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KM12 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KMOE-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KNS-42 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KNS-81-FD cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KP-N-YS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KU812 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KURAMOCHI cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KY821 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human L-363 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human L-428 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LAMA-84 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LAN-6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB1047-RCC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB2241-RCC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB2518-MEL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB373-MEL-D cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB771-HNC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB831-BLC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LB996-RCC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LC-2-ad cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LNCaP-Clone-FGC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LOXIMVI cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LS034 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LS23 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LS-411N cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LS-513 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LU34-A cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LU39 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LU-65 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LXF-289 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MC116 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MEG-01 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MFH-ino cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MHH-NB1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MHH-PREB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ML-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MLMA cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MMAC-SF cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MN-60 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MOLT6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MOLT-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MONO-MAC-6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MPP-89 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MSTO-211H cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MV-41 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MZ1-PC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MZ2-MEL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MZ7-mel cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NALM-6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB10 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB12 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB13 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB14 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NB69 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCCIT cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1092 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1155 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1299 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1304 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1355 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1581 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1648 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1650 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1770 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1838 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H209 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H2126 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H226 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H23 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H446 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H510A cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H526 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H69 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H747 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H82 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-SNU cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-SNU-5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NEC8 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NH2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NKM cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NMC-G1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NOMO cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NOS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NTERA-S-cl-D1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OCI-AML2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OCUB-M cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OMC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ONS-76 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OS-RC-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OVCAR-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human P30-OHK cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PF-382 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PSN1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human QIMR-WIL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RCC10RGB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RH cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RKO cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RPMI-6666 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RPMI-8226 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RPMI-8402 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RPMI-8866 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RS41 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RXF393 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Ramos-2G6-4C10 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SBC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SCC-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SF126 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SF268 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SF539 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SH-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SHP-77 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SIG-M5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SJSA cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-LMS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-MEL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-MEL-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-N-DZ cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-NEP cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-PN-DW cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-UT cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SNB75 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SR cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ST486 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SU-DHL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW872 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW954 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW962 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE0 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE-5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE-6 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE-8 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE-9 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TGBC1TKB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TK10 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human U-266 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human U-87-MG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human UACC-257 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human VA-ES-BJ cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human no0 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human no1 cell growth in a cell viability assay.,1.0
+Single concentration confirmation of uHTS for Inhibitors of Mdm2/MdmX interaction in luminescent format.,0.4078373860045268
+alkaline phosphatase stimulation in WNT3A conditioned C2C12 cells-IC50,0.799639638062867
+nuclear beta catenin stimulation in WNT3A conditioned C2C12 cells-IC50,1.0
+qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Orthogonal 3D viability screen for SJ-GBM2 cells,1.0
+Confirmatory qHTS for small molecule stabilizers of the endoplasmic reticulum resident proteome: Secreted ER Calcium Modulated Protein (SERCaMP) assay,0.8612802333609997
+Binding affinity towards human HTR5A in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human HTR6 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human HTR7 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Displacement of [3H]5alpha dihydrotestosterone from human sex hormone binding globulin,1.0
+Experimentally measured binding affinity data (Ki) for protein-ligand complexes derived from PDB,1.0
+Experimentally measured binding affinity data derived from PDB,1.0
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  Colon 26 Adenocarcinoma (intraperitoneal) in CD2F1 (CDF1) mice,0.6465037564327235
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  Mammary Adenocarcinoma CD8F1 (subcutaneous) in CD8F1,0.9221191039598948
+Stimulation of human MRP2 overexpressed in Sf9 cell membrane vesicles assessed as uptake of [3H]-estradiol7beta-D-glucuronide in presence of ATP and GSH measured after 20 mins by membrane vesicle transport assay,1.0
+Binding affinity to Candida albicans CaCdr1p expressed in yeast AD1-8u,0.9724160819999909
+Binding affinity to Candida albicans CaMdr1p expressed in yeast AD1-8u,0.20719856762977598
+Cell Proliferation Assay Versus the ED40515 IL2 Dependent  ATL cell lines,0.41593762623302233
+Cell Proliferation Assay Versus the ED40515 IL2 Independent  ATL cell lines,0.881747163377889
+"Identifying Small Molecule Inhibitors of Pancreatic Cancer Stem Cells (A278, Adherent)",1.0
+"Identifying Small Molecule Inhibitors of Pancreatic Cancer Stem Cells (SN12C, Adherent)",1.0
+Immunotoxin (HA22) sensitization/mitigation study - treatment arm (High Dose),1.0
+Immunotoxin (HA22) sensitization/mitigation study - treatment arm (low dose),0.5852549914443697
+Immunotoxin (HA22) sensitization/mitigation study. Vehicle arm (PBS),0.8085431871441616
+Immunotoxin (SS1P) sensitization/mitigation study - treatment arm,0.8907750530055489
+Immunotoxin (SS1P) sensitization/mitigation study. Vehicle arm (DMEM),0.926611028101784
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  ADJ-PC-6 (intraperitoneal) in BALB/cJ mice,0.1463990992829598
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  B16 Melanoma (subcutaneous) in B6D2F1 (BDF1) mice,0.4163789567288976
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  L1210 Leukemia (subcutaneous) in CD2F1 (CDF1) mice,0.454463708770277
+NCI In Vivo Anticancer Drug Screen. Data for tumor model  Lewis Lung Carcinoma (subcutaneous) in B6D2F1 (BDF1) mice,1.0
+TP_TRANSPORTER: inhibition of Daunorubicin efflux in NIH-3T3-G185 cells,1.0
+qHTS Assay for Identification of Small Molecule Antagonists for NFkB Signaling Pathway.,1.0
+qHTS for small molecule inhibitors of Yes1 kinase: Primary Screen,0.41431294850729916
+A Cell Based Secondary Assay To Explore Cytotoxicity of Compounds that Inhibit Mycobacterium Tuberculosis,1.0
+A High Throughput Confirmatory Assay used to Identify Novel Compounds that Inhibit Mycobacterium Tuberculosis in the absence of Glycerol,0.36382330555963893
+Absorbance-based bacterial cell-based high throughput confirmation assay for inhibitors of AddAB recombination protein complex,1.0
+Absorbance-based bacterial cell-based high throughput confirmation assay to identify inhibitors of RecBCD,0.5631709285261859
+Antiproliferative activity against mouse P388 cells after 48 hrs by MTT assay,1.0
+Colo320 viability from Cell TiterGlo-IC50,0.16849346784240632
+Confirmatory qHTS for gynecologic anti-cancer compounds from libraries of approved drugs and bioactive compounds,0.4595973861839421
+Counterscreen for AddAB inhibitors: absorbance-based bacterial cell-based high throughput confirmation assay for inhibitors of bacterial viability,0.9122193272812886
+Counterscreen for AddAB inhibitors: absorbance-based high throughput cell-based assay to identify inhibitors of RecBCD,1.0
+Counterscreen for RECBCD inhibitors: absorbance-based high throughput cell-based assay to identify inhibitors of AddAB recombination protein complex,0.7100208036158184
+Counterscreen for inhibitors of RecBCD: Absorbance-based cell-based high throughput assay to identify inhibitors of bacterial viability,0.9599064294462306
+DLD viability from Cell TiterGlo-IC50,1.0
+GSK3B-pretreated HCT116 viability from Cell TiterGlo-IC50,0.5528692834745896
+HCT116 viability from Cell TiterGlo-IC50,0.6791320261501701
+HT-29 viability from Cell TiterGlo-IC50,0.8588071759701096
+High Throughput Screening of small molecules that kill Mycobacterium tuberculosis,0.1732148014348312
+Inhibition of Trichomonas vaginalis uridine nucleoside ribohydrolase using 5-fluorouridine as substrate at 0.04 to 200 uM after 40 mins by NMR spectrometric analysis,1.0
+RKO viability from Cell TiterGlo-IC50,0.44372565284439414
+Rucaparib conditional oncology-focused drug screen on ovarian cancer cells.,1.0
+SNU-C1 viability from Cell TiterGlo-IC50,1.0
+SW480 viability from Cell TiterGlo-IC50,0.7879416511227975
+VEGF stimulated ADSC/ECFC co-culture CD31-stained tube area decrease-IC50,0.31514846221514276
+Binding affinity towards human CHRM5 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human DRD4 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Binding affinity towards human TACR1 in an in vitro assay with cellular components measured by membrane filtration,1.0
+Compound was evaluated for inhibition of human SCN5A in an in vitro cell-based assay measured by IonWorks automated patch clamp,1.0
+Human H1 receptor (Histamine receptors),1.0
+Inhibition of human ERG expressed in CHO cells by whole cell patch clamp technique,1.0
+Inhibition of human Potassium channel HERG expressed in mammalian cells,1.0
+Inhibitory concentration against potassium channel HERG,1.0
+Displacement of [3H]spiperone from human dopamine D3 receptor expressed in CHO cells,1.0
+Human D1 receptor (Dopamine receptors),1.0
+Human D2 receptor (Dopamine receptors),1.0
+Human D3 receptor (Dopamine receptors),1.0
+Human D4 receptor (Dopamine receptors),1.0
+Human D5 receptor (Dopamine receptors),1.0
+Antitrypanosomal activity against Trypanosoma cruzi amastigotes infected in BESM cells measured after 88 hrs postinfection by HTS assay,1.0
+Compound was evaluated for inhibition of rat Slc18a2 in an ex vivo assay measured by radioactivity method,1.0
+Confirmatory qHTS for activators (rescue) of SARS-CoV-2 Cytopathic Effect (CPE),1.0
+Human 5-HT2B receptor (5-Hydroxytryptamine receptors),1.0
+Human SERT (Monoamine transporter subfamily),1.0
+Inhibition of human recombinant CYP2J2 assessed as reduction in astemizole O-demethylation by LC-MS/MS method,1.0
+Mouse Kir3.2 (Inwardly rectifying potassium channels),1.0
+Rat 5-HT2A receptor (5-Hydroxytryptamine receptors),1.0
+Rat 5-HT6 receptor (5-Hydroxytryptamine receptors),1.0
+DSSTox (EPAFHM) EPA Fathead Minnow Acute Toxicity,0.923724918398048
+Human COX  (Cyclooxygenase),1.0
+Human COX-2  (Cyclooxygenase),1.0
+Inhibition of human carbonic anhydrase 2 by stopped-flow CO2 hydrase assay,1.0
+Antiplasmodial activity against Plasmodium falciparum 7G8 after 72 hrs by SYBR green assay,1.0
+Antiplasmodial activity against Plasmodium falciparum GB4 after 72 hrs by SYBR green assay,1.0
+Antiplasmodial activity against Plasmodium falciparum HB3 after 72 hrs by SYBR green assay,1.0
+Antiplasmodial activity against Plasmodium falciparum W2 after 72 hrs by SYBR green assay,1.0
+Cytotoxicity against human A549 cells after 48 hrs by MTT assay,1.0
+Inhibition of human MATE1-mediated ASP+ uptake expressed in HEK293 cells after 1.5 mins by fluorescence assay,1.0
+Ligands of peptide (Class A) GPCRs,1.0
+Solubility by shake flask method,1.0
+Unbound drug concentration in Sprague-Dawley rat plasma administered in casettes of 2/3 drugs at 4 hr constant rate intravenous infusions using flow rate of 1 (ml/kg)/hr corresponding to dosage rate of 2 (umol/kg)/hr by LC-MS/MS method,1.0
+NCATS Kinetic Aqueous Solubility Profiling,0.8474858238624419
+NCATS Parallel Artificial Membrane Permeability Assay (PAMPA) Profiling,1.0
+NCATS Rat Liver Microsome Stability Profiling,0.8787003779972211
+Antimicrobial activity against non replicating persistence Mycobacterium tuberculosis H37Rv in aerobic condition assessed by relative light units after 7 days,1.0
+Competitive binding affinity to human PXR LBD (111 to 434) by TR-FRET assay,1.0
+Antibacterial activity against uropathogenic Escherichia coli UTI89 assessed as degradation of preexisting biofilm after 24 hrs by microscopy,1.0
+Antiplasmodial activity against Plasmodium falciparum D10 after 72 hrs by SYBR green assay,1.0
+Antiplasmodial activity against Plasmodium falciparum Dd2 after 72 hrs by SYBR green assay,1.0
+Antiproliferative activity against human HCT116 cells after 72 hrs by MTT assay,1.0
+Antiproliferative activity against human HT-29 cells after 96 hrs by MTT assay,1.0
+Antiproliferative activity against human HeLa cells after 72 hrs by MTT assay,1.0
+Cmax in human,1.0
+Cytotoxicity against human MCF7 cells after 72 hrs by MTT assay,1.0
+NCI Yeast Anticancer Drug Screen. Data for the rad18 strain,0.9543432001989234
+SANGER: Inhibition of human 22RV1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 5637 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 639-V cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 647-V cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 769-P cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 786-0 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 8305C cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human 8505C cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A172 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A204 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A2058 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A2780 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A427 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A431 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A673 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human A704 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ABC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ACHN cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human AN3-CA cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human AU565 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BCPAP cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BFTC-905 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BFTC-909 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BHY cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BPH cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human BT-20 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human C3A cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAKI cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAL2T cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAL-27 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAL-33 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAL-51 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAL-54 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAL-62 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CAPAN cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CHL cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human CHP-212 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COR-L105 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human COR-L23 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Ca-Ski cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Ca9-22 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Calu-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ChaGo-K cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DBTRG-05MG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DMS-273 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DU45 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Daoy cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Detroit562 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human DoTc2-4510 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EFM9 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EFO-27 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human EGI cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ESS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human FADU cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human FTC33 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human G-401 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human G-402 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GAMG cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GCT cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human GP5d cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human H4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCC1569 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCC1806 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCE-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HCT16 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HEC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HGC-27 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HLE cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HMV-II cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HN cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HO-N cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HOS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HPAF-II cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HSC-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HSC-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HSC-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HT376 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HT-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HTC-C3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HuH-7 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HuO-3N1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human HuP-T4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human IA-LM cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human J82 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human JEG-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KLE cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KOSC-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KP-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KYSE40 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KYSE80 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KYSE-270 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KYSE-450 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KYSE-510 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human KYSE-70 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LCLC03H cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LCLC-97TM1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LK-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LU-99A cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human LoVo cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human M14 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MC-IXC cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MDA-MB-415 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human ME80 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MEL-HO cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MEL-JUSO cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MG-63 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MHH-ES cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MIA-PaCa-2 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MKN1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MKN28 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human MKN45 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human Mewo cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1437 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1563 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1703 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H1792 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H2030 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H2087 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H2122 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H2170 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H2228 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H28 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H292 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H358 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H650 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H661 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-H810 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NCI-N87 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NUGC-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human NY cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OAW-28 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OAW-42 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OE33 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human OVCAR-8 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human P12-ICHIKAWA cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PA cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PANC-03-27 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PANC0-05 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PC4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PC-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human PFSK cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RCM cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RD cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RERF-LC-MS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RPMI-2650 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RPMI-7951 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human RT12 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human S17 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SAS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SCC5 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SCC-25 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SCC-4 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SF295 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-HEP cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-LU cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SK-MES cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SKG-IIIa cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SN12C cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SNU-423 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SNU-449 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SNU-C2B cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW1088 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW13 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW1573 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW1710 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW48 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW620 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW756 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human SW982 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human T98G cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TCCSUP cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TE1 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TGBC24TKB cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human TYK-nu cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human UM-UC-3 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human VM-CUB cell growth in a cell viability assay.,1.0
+Single concentration confirmation of inhibitors of Mdm2/MdmX interaction using a Brca1/Bard1 BiLC Counterscreen assay.,0.47085960571294017
+Single concentration confirmation of inhibitors of Mdm2/MdmX interaction using a Full-Length Luciferase Counterscreen assay,0.9033931946122046
+Compound was evaluated for inhibition of human CACNA1C in an in vitro cell-based assay measured by IonWorks automated patch clamp,1.0
+Effective free therapeutic plasma concentration (EFTPC): the concentration of unbound compund in the blood plasma at therapeutic dose (mean of range),1.0
+"Inhibition of Cav1.2 current measured using QPatch automatic path clamp system in CHO cells expressing Cav1.2, beta-2 and alpha-2/delta subunits",1.0
+Inhibition of L-type calcium channel measured using whole-cell patch clamp in guinea pig ventricular myocytes,1.0
+Inhibition of hERG K channel,1.0
+Antiviral activity against HIV1,1.0
+Cytotoxicity against human HeLa cells,1.0
+Confirmatory qHTS for inhibitors of MERS-S pseudo-typed particle cell entry,0.7926825815887464
+Confirmatory qHTS for inhibitors of SARS-S pseudo-typed particle cell entry,0.9038799668928443
+VSV-G qHTS counterscreen for inhibitors of MERS-S pseudo-typed particle cell entry,0.4298599282452711
+VSV-G qHTS counterscreen for inhibitors of SARS-S pseudo-typed particle cell entry,1.0
+Antimicrobial activity against Carnobacterium divergens BM4490 expressing beta-lactamase CAD1 at 0.5 McFarland inoculum size by E-test,1.0
+Antimicrobial activity against Carnobacterium divergens BM4490 expressing beta-lactamase CAD1 at 3 McFarland inoculum size by E-test,1.0
+Inhibition of penicillin-resistant Streptococcus pneumoniae 5204 PBP2X preincubated for 4 hrs before addition of substrate (R)-[2-(benzoylamino)propionylsulfanyl]acetic acid,1.0
+Inhibition of penicillin-sensitive Streptococcus pneumoniae R6 PBP2X preincubated for 1 hr before addition of substrate (R)-[2-(benzoylamino)propionylsulfanyl]acetic acid,1.0
+Human 5-HT6 receptor (5-Hydroxytryptamine receptors),1.0
+Human M1 receptor (Acetylcholine receptors (muscarinic)),1.0
+Human M2 receptor (Acetylcholine receptors (muscarinic)),1.0
+Human M3 receptor (Acetylcholine receptors (muscarinic)),1.0
+Human M4 receptor (Acetylcholine receptors (muscarinic)),1.0
+Human NET (Monoamine transporter subfamily),1.0
+Inhibition of human ERG in MCF7 cells,1.0
+Inhibition of human voltage-gated potassium channel subunit Kv11.1 (ERG K+ channel) in open state,1.0
+K+ channel blocking activity in human embryonic kidney cells expressing HERG Kv11.1,1.0
+Rat 5-HT7 receptor (5-Hydroxytryptamine receptors),1.0
+Human DAT (Monoamine transporter subfamily),1.0
+SANGER: Inhibition of human 23132-87 cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human AGS cell growth in a cell viability assay.,1.0
+SANGER: Inhibition of human IGROV cell growth in a cell viability assay.,1.0
+Antimicrobial activity against Pseudomonas aeruginosa 2A3 tracheal isolates from mechanically ventilated tuberculosis patient,1.0
+Antimicrobial activity against Pseudomonas aeruginosa 2A5 tracheal isolates from mechanically ventilated tuberculosis patient,1.0
+Antimicrobial activity against Pseudomonas aeruginosa 3B1 tracheal isolates from mechanically ventilated tuberculosis patient,1.0
+Antimicrobial activity against Pseudomonas aeruginosa IA5 tracheal isolates from mechanically ventilated tuberculosis patient,1.0
+Antimicrobial activity against Pseudomonas aeruginosa P21.21 tracheal isolates from mechanically ventilated tuberculosis patient,1.0
+Antimicrobial activity against Pseudomonas aeruginosa P21.23 tracheal isolates from mechanically ventilated tuberculosis patient,1.0
+Antagonists at Human 5-Hydroxytryptamine receptor 5-HT2A,1.0
+Human 5-HT1A receptor (5-Hydroxytryptamine receptors),1.0
+Human 5-HT2A receptor (5-Hydroxytryptamine receptors),1.0
+Human 5-HT2C receptor (5-Hydroxytryptamine receptors),1.0
+Human 5-HT7 receptor (5-Hydroxytryptamine receptors),1.0
+Human alpha2A-adrenoceptor (Adrenoceptors),1.0
+Human alpha2B-adrenoceptor (Adrenoceptors),1.0
+Human alpha2C-adrenoceptor (Adrenoceptors),1.0
+Antiproliferative activity against human A549 cells after 48 hrs by MTT assay,1.0
+Antiproliferative activity against human HeLa cells after 48 hrs by MTT assay,1.0
+Antiproliferative activity against human MDA-MB-231 cells after 48 hrs by MTT assay,1.0
+Inhibition of P-glycoprotein using calcein-AM assay transfected in porcine PBCEC,1.0
+"Inhibition of P-glycoprotein, human L-MDR1 expressed in LLC-PK1 epithelial cells using calcein-AM polarisation assay",1.0
+"Inhibition of P-glycoprotein, mouse L-mdr1b expressed in LLC-PK1 epithelial cells using calcein-AM polarisation assay",1.0
+Inhibition of human cytochrome P450 3A4,1.0
+TP_TRANSPORTER: inhibition of Calcein-AM efflux in MDR1-expressing LLC-PK1 cells,1.0
+TP_TRANSPORTER: inhibition of Calcein-AM efflux in Mdr1b-expressing LLC-PK1 cells,1.0
+"qHTS Assay for Identifying Compounds that block Entry of Ebola Virus: Screen 4, ratio channel",0.5515465854166592
+qHTS assay to identify inhibitors of the type 1 interferon - major histocompatibility complex class I in skeletal muscle: Counter screen cell viability and HiBit confirmation,0.4273553138978078
+Inhibition of human OCT2-mediated ASP+ uptake expressed in HEK293 cells after 3 mins by fluorescence assay,1.0
+Inhibition of DR24 in Dhcr7-deficient mouse Neuro2a cells assessed as decrease in 7-DHC levels at 1 uM by LC-MS/GC-MS analysis,1.0
+Confirmatory qHTS for antagonist of cAMP-regulated guanine nucleotide exchange factor 4 (EPAC2),0.18395430218086994
+Inhibition of cigarette smoke extract (CSE) and LPS-stimulated mouse B cell migration at 1 uM relative to control,1.0
+Inhibition of human BSEP expressed in HEK293 cell membrane vesicles assessed as reduction in 3H-TCA uptake incubated for 5 mins by radiodetection method,1.0
+"3H-CGP 12177 Whole Cell Binding Assay from Article 10.1038/sj.bjp.0706048: ""The selectivity of beta-adrenoceptor antagonists at the human beta1, beta2 and beta3 adrenoceptors.""",1.0
+Human alpha1D-adrenoceptor (Adrenoceptors),1.0
+Human beta1-adrenoceptor (Adrenoceptors),1.0
+Human beta2-adrenoceptor (Adrenoceptors),1.0
+Confirmation assay for measurement of the activity of small molecule inhibitors on Zika virus induced Caspase-3 activity in human astrocytes,1.0
+Confirmation qHTS Assay for Inhibitors of Bacillus subtilis Sfp phosphopantetheinyl transferase (PPTase),0.5509849875850935
+TP_TRANSPORTER: inhibition of LDS-751 efflux in NIH-3T3-G185 cells,1.0
+A Counter Screen to identiry small molecule screen for inhibitors of the PhoP regulon in Salmonella Typhimurium,1.0
+A cytotoxicity screen of small molecule inhibitors of the PhoP regulon in Salmonella typhimurium identified in the primary screen,1.0
+A screen for inhibitors of the PhoP regulon in Salmonella Typhimurium using a modified counterscreen.,1.0
+Inhibition of GST-tagged astrosclera willeyana Astrosclerin-3 expressed in Escherichia coli after 15 mins preincubation by stopped flow CO2 hydration assay,1.0
+Inhibition of Legionella pneumophilia subsp. Pneumophila strain Philadelphia carbonic anhydrase-2 assessed as CO2 hydrase activity by stopped-flow assay,1.0
+Inhibition of Nostoc commune gamma carbonic anhydrase by CO2 hydration assay,1.0
+Inhibition of Nostoc commune gamma carbonic anhydrase preincubated for 15 mins by stopped flow CO2 hydration assay,1.0
+Inhibition of Plasmodium falciparum Eta-carbonic anhydrase pre-incubated for 15 mins before CO2 substrate addition by stopped-flow CO2 hydration assay,1.0
+Inhibition of Salmonella Typhimurium recombinant carbonic anhydrase 1 at pH 8.3 by stopped flow CO2 hydration assay,1.0
+Inhibition of Salmonella Typhimurium recombinant carbonic anhydrase 2 at pH 8.3 by stopped flow CO2 hydration assay,1.0
+Inhibition of Sulfurihydrogenibium yellowstonense YO3AOP1 recombinant carbonic anhydrase preincubated for 15 mins by CO2 hydration stopped-flow assay,1.0
+Inhibition of Thalassiosira weissflogii delta carbonic anhydrase preincubated for 15 mins by stopped flow CO2 hydration assay,1.0
+Inhibition of Vibrio cholerae Gamma-carbonic anhydrase assessed as reduction in CO2 hydration preincubated for 15 mins followed by CO2 addition measured for 10 to 100 sec by Line-Weaver Burk plot analysis,1.0
+Inhibition of Vibrio cholerae beta carbonic anhydrase incubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of Vibrio cholerae beta-carbonic anhydrase using CO2 as substrate preincubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of human Carbonic anhydrase2 using CO2 as substrate preincubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of human carbonic anhydrase 2 assessed as reduction in CO2 hydration preincubated for 15 mins followed by CO2 addition measured for 10 to 100 sec by Line-Weaver Burk plot analysis,1.0
+Inhibition of human carbonic anhydrase 2 incubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of human carbonic anhydrase 2 pre-incubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of human carbonic anhydrase 2 preincubated for 15 mins by CO2 hydrase stopped flow assay,1.0
+Inhibition of human carbonic anhydrase-2 assessed as reduction in CO2 hydration preincubated for 15 mins followed by CO2 addition measured for 10 to 100 secs by stopped-flow assay,1.0
+Inhibition of human carbonic anhydrase-2 by stopped-flow CO2 hydration assay,1.0
+Inhibition of human cytosolic carbonic anhydrase 2 preincubated for 15 mins by stop flow CO2 hydrase assay,1.0
+Inhibition of human recombinant Carbonic anhydrase 2 compound preincubated for 15 mins by stopped flow CO2 hydrase assay method,1.0
+Inhibition of human recombinant carbonic anhydrase 2 after 15 mins by stopped flow CO2 hydration assay,1.0
+Inhibition of human recombinant carbonic anhydrase 2 at pH 7.5 by stopped flow CO2 hydration assay,1.0
+Inhibition of human recombinant carbonic anhydrase 2 by stopped flow CO2 hydrase assay,1.0
+Inhibition of human recombinant carbonic anhydrase 2 by stopped flow CO2 hydration assay,1.0
+Inhibition of human recombinant carbonic anhydrase 2 by stopped-flow CO2 hydration assay,1.0
+Inhibition of human recombinant carbonic anhydrase 2 preincubated for 15 mins by CO2 hydration stopped-flow assay,1.0
+Inhibition of human recombinant carbonic anhydrase 2 preincubated for 15 mins by stopped flow CO2 hydration assay,1.0
+Inhibition of human recombinant carbonic anhydrase-2 by stopped flow CO2 hydrase assay method,1.0
+Inhibition of recombinant Colwellia psychrerythraea gamma carbonic anhydrase preincubated for 15 mins by stopped flow CO2 hydration assay,1.0
+Inhibition of recombinant Enterobacter sp. B13 beta carbonic anhydrase incubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of recombinant Nostoc commune gamma-carbonic anhydrase preincubated for 15 mins by stopped flow CO2 hydrase assay,1.0
+Inhibition of recombinant Sulfurihydrogenibium yellowstonense YO3AOP1 carbonic anhydrase by stopped flow CO2 hydrase assay,1.0
+Inhibition of recombinant Thiomicrospira crunogena XCL-2 carbonic anhydrase by stopped flow CO2 hydrase assay,1.0
+Inhibition of recombinant Vibrio cholerae gamma-carbonic anhydrase preincubated for 15 mins by stopped-flow CO2 hydration assay,1.0
+Inhibition of recombinant human carbonic anhydrase-2 by stopped flow CO2 hydrase assay,1.0
+Antimicrobial activity against Plasmodium yoelii 265 liver infected in mammalian hepatocytes after 48 hrs,1.0
+Binding affinity of a compound to rat brain 5-hydroxytryptamine 1A (serotonin) receptor assayed by radiolabeled [3H]-8-OH-DPAT ligand displacement,1.0
+Agonists at Human 5-Hydroxytryptamine receptor 5-HT1A,1.0
+Human 5-HT1B receptor (5-Hydroxytryptamine receptors),1.0
+Human 5-HT1D receptor (5-Hydroxytryptamine receptors),1.0
+Human alpha1A-adrenoceptor (Adrenoceptors),1.0
+Agonists at Human 5-Hydroxytryptamine receptor 5-HT1F,1.0
+Agonists at Human 5-Hydroxytryptamine receptor 5-ht1e,1.0
+Human 5-HT1F receptor (5-Hydroxytryptamine receptors),1.0
+Human 5-ht1e receptor (5-Hydroxytryptamine receptors),1.0
+Inhibition of human ERG channel,1.0
+Human alpha1B-adrenoceptor (Adrenoceptors),1.0
+Human delta receptor (Opioid receptors),1.0
+Human kappa receptor (Opioid receptors),1.0
+Inhibition of rapid delayed inward rectifying potassium current (IKr) measured using manual patch clamp assay,1.0
