@@ -1,26 +1,47 @@
 # ChemBioHepatox
 
-ChemBioHepatox is a novel multimodal deep-learning framework that integrates chemical structures with biological assay responses for accurate hepatotoxicity prediction. This repository contains the implementation of the complete framework as described in our paper.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![DOI](https://img.shields.io/badge/DOI-Coming%20Soon-orange)](http://exposomex.cn:58080/)
+
+## Multimodal Integration of Chemical Structure and Biological Fingerprint for Robust and Interpretable Hepatotoxicity Prediction
+
+ChemBioHepatox is a novel deep learning framework that combines chemical structures with biological assay responses to accurately predict hepatotoxicity while providing mechanistic insights into toxicity pathways.
+
+![Model Architecture](https://via.placeholder.com/800x400?text=ChemBioHepatox+Framework)
 
 ## Overview
 
-ChemBioHepatox consists of three integrated components:
-1. **Hepatotoxicity Assay Response Spectrum**: A comprehensive set of 19 key assays capturing fundamental hepatotoxicity mechanisms
-2. **Multimodal Integration Architecture**: A system that bridges chemical structures and biological assays through shared embedding space
-3. **Interpretable Mechanism Analysis**: A linear output layer that quantifies each assay's contribution to prediction
+Hepatotoxicity evaluation is vital in drug development and chemical safety assessment. Our framework addresses three key challenges in computational toxicity prediction:
 
-The framework achieves high predictive performance (AUC 0.92, precision 0.88, recall 0.87) and significantly mitigates activity cliffs, with robust validation across pharmaceuticals, agricultural pesticides, and food additives.
+1. **Activity Cliffs**: Successfully predicting toxicity for structurally similar compounds with different biological effects
+2. **Interpretability**: Providing mechanistic insights into predictions
+3. **Broad Applicability**: Working across diverse chemical domains (pharmaceuticals, pesticides, food additives)
 
-## Repository Structure
+ChemBioHepatox achieves superior predictive performance (AUC 0.92, precision 0.88, recall 0.87) while maintaining mechanistic interpretability through its innovative three-component architecture.
 
-- `DeepChem/ChemBERTa-77M-MTR/`: Pre-trained ChemBERTa model used for chemical structure encoding
-- `saved_model/`: Trained model checkpoints for the multi-task learning component
-- `best_model.pth`: Best performing model weights for the classifier
-- `ChemBioHepatox Component 2 Multimodal Integration.py`: Implementation of the multimodal integration architecture
-- `ChemBioHepatox Component 3 Interpretable Mechanism Analysis.py`: Implementation of the linear interpretable layer
-- `Prediction example.ipynb`: Jupyter notebook with usage examples
-- `cti.csv`: Dataset for training the multi-task learning model
-- `data3.csv`: Dataset for training the hepatotoxicity classifier
+## Key Components
+
+### 1. Hepatotoxicity Assay Response Spectrum
+A comprehensive panel of 19 key assays covering all 12 fundamental hepatotoxicity mechanisms, established through a rigorous three-step selection process.
+
+### 2. Multimodal Integration Architecture
+A deep learning approach that bridges chemical structures and biological assays within a shared embedding space, employing:
+- Masked processing for handling missing values
+- Dynamic α-focal loss for addressing class imbalance
+- Probabilistic soft label method for multi-task learning
+
+### 3. Interpretable Mechanism Analysis
+A linear output layer that quantifies each feature's contribution to the prediction, providing transparent insight into the biological mechanisms underlying toxicity.
+
+## Results
+
+ChemBioHepatox demonstrates exceptional performance across multiple domains:
+
+- **Predictive Accuracy**: AUC of 0.92, precision 0.88, recall 0.87
+- **Activity Cliff Resolution**: Successfully classified 26.9% of structurally similar compounds with different toxicity profiles
+- **Clinical Relevance**: Predictions correlate with clinical severity grades in the LiverTox database
+- **Broad Applicability**: Successfully validated across pharmaceuticals, agricultural pesticides, and food additives
 
 ## Installation
 
@@ -29,51 +50,12 @@ The framework achieves high predictive performance (AUC 0.92, precision 0.88, re
 git clone https://github.com/shouyqddd123/ChemBioHepatox.git
 cd ChemBioHepatox
 
-# Create a conda environment (recommended)
-conda create -n chembiohepatox python=3.8
-conda activate chembiohepatox
+# Create a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install required packages
-pip install torch torchvision
-pip install transformers
-pip install pandas numpy scikit-learn matplotlib
-```
+# Install dependencies
+pip install -r requirements.txt
 
-## Usage
-
-We provide example code for using ChemBioHepatox in the `Prediction example.ipynb` Jupyter notebook, which includes:
-
-1. **Predicting Hepatotoxicity for New Compounds**: Code to predict the hepatotoxicity probability of any chemical compound provided as a SMILES string
-2. **Visualizing Assay Responses**: Code to generate and visualize the biological assay response spectrum for mechanism interpretation
-
-To use the models with your own data:
-
-1. Open `Prediction example.ipynb` in Jupyter Notebook or Jupyter Lab
-2. Replace the example SMILES strings with your own chemical structures
-3. Run the notebook cells to get predictions and visualizations
-
-The notebook provides detailed comments and explanations for each step of the prediction process.
-
-## Training
-
-To retrain the models, follow these steps:
-
-1. **Multi-task Learning Model**:
-   Run `ChemBioHepatox Component 2 Multimodal Integration.py` with the appropriate dataset. This will train the model to predict the 19 assay responses from chemical structures.
-
-2. **Hepatotoxicity Classifier**:
-   After training the multi-task model, run `ChemBioHepatox Component 3 Interpretable Mechanism Analysis.py` to train the linear classifier for hepatotoxicity prediction.
-
-## Web Platform
-
-The ChemBioHepatox framework is also available as a web platform at [http://exposomex.cn:58080/](http://exposomex.cn:58080/), where you can input SMILES structures and get hepatotoxicity predictions along with mechanistic insights.
-
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-This work was supported by the National Natural Science Foundation of China and SEU Innovation Capability Enhancement Plan for Doctoral Students (CXJH_SEU 25).
+# Install the package in development mode (optional)
+pip install -e .
